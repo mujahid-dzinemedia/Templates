@@ -3,7 +3,7 @@
     "title": "Trending",
     "templates": [
       {
-        "json": "learning_1.json",
+        "json": "5e4e6460b72f5f8909922d8f6aa1b93873c1c670/learning_1.json",
         "thumbnail": "thumbnail/learning_1.png"
       }
     ]
@@ -13,6 +13,10 @@
     "templates": [
       {
         "json": "learning_1.json",
+        "thumbnail": "thumbnail/learning_1.png"
+      },
+      {
+        "json": "5e4e6460b72f5f8909922d8f6aa1b93873c1c670/learning_2.json",
         "thumbnail": "thumbnail/learning_1.png"
       }
     ]
