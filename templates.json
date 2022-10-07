@@ -1,76 +1,20 @@
 [
-    {
-        "title":"Trending",
-        "templates":[
-            {
-                "json":"https://gist.githubusercontent.com/mujahid-dzinemedia/ba1405d4d500642da12725b35be578aa/raw/a4695eb3fdf14a018c13d1801774f44f416797b7/learning_1.json",
-                "thumbnail":"https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/assets/learning_1.png"
-            },
-            {
-                "json":"https://gist.githubusercontent.com/mujahid-dzinemedia/ba1405d4d500642da12725b35be578aa/raw/a4695eb3fdf14a018c13d1801774f44f416797b7/learning_1.json",
-                "thumbnail":"https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/assets/learning_1.png"
-            },
-            {
-                "json":"https://gist.githubusercontent.com/mujahid-dzinemedia/ba1405d4d500642da12725b35be578aa/raw/a4695eb3fdf14a018c13d1801774f44f416797b7/learning_1.json",
-                "thumbnail":"https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/assets/learning_1.png"
-            },
-            {
-                "json":"https://gist.githubusercontent.com/mujahid-dzinemedia/ba1405d4d500642da12725b35be578aa/raw/a4695eb3fdf14a018c13d1801774f44f416797b7/learning_1.json",
-                "thumbnail":"https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/assets/learning_1.png"
-            },
-            {
-                "json":"https://gist.githubusercontent.com/mujahid-dzinemedia/ba1405d4d500642da12725b35be578aa/raw/a4695eb3fdf14a018c13d1801774f44f416797b7/learning_1.json",
-                "thumbnail":"https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/assets/learning_1.png"
-            },
-            {
-                "json":"https://gist.githubusercontent.com/mujahid-dzinemedia/ba1405d4d500642da12725b35be578aa/raw/a4695eb3fdf14a018c13d1801774f44f416797b7/learning_1.json",
-                "thumbnail":"https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/assets/learning_1.png"
-            },
-            {
-                "json":"https://gist.githubusercontent.com/mujahid-dzinemedia/ba1405d4d500642da12725b35be578aa/raw/a4695eb3fdf14a018c13d1801774f44f416797b7/learning_1.json",
-                "thumbnail":"https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/assets/learning_1.png"
-            },
-            {
-                "json":"https://gist.githubusercontent.com/mujahid-dzinemedia/ba1405d4d500642da12725b35be578aa/raw/a4695eb3fdf14a018c13d1801774f44f416797b7/learning_1.json",
-                "thumbnail":"https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/assets/learning_1.png"
-            }
-        ]
-    },
-    {
-        "title":"Learning",
-        "templates":[
-            {
-                "json":"https://gist.githubusercontent.com/mujahid-dzinemedia/ba1405d4d500642da12725b35be578aa/raw/a4695eb3fdf14a018c13d1801774f44f416797b7/learning_1.json",
-                "thumbnail":"https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/assets/learning_1.png"
-            },
-            {
-                "json":"https://gist.githubusercontent.com/mujahid-dzinemedia/ba1405d4d500642da12725b35be578aa/raw/a4695eb3fdf14a018c13d1801774f44f416797b7/learning_1.json",
-                "thumbnail":"https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/assets/learning_1.png"
-            },
-            {
-                "json":"https://gist.githubusercontent.com/mujahid-dzinemedia/ba1405d4d500642da12725b35be578aa/raw/a4695eb3fdf14a018c13d1801774f44f416797b7/learning_1.json",
-                "thumbnail":"https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/assets/learning_1.png"
-            },
-            {
-                "json":"https://gist.githubusercontent.com/mujahid-dzinemedia/ba1405d4d500642da12725b35be578aa/raw/a4695eb3fdf14a018c13d1801774f44f416797b7/learning_1.json",
-                "thumbnail":"https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/assets/learning_1.png"
-            },
-            {
-                "json":"https://gist.githubusercontent.com/mujahid-dzinemedia/ba1405d4d500642da12725b35be578aa/raw/a4695eb3fdf14a018c13d1801774f44f416797b7/learning_1.json",
-                "thumbnail":"https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/assets/learning_1.png"
-            },
-            {
-                "json":"https://gist.githubusercontent.com/mujahid-dzinemedia/ba1405d4d500642da12725b35be578aa/raw/a4695eb3fdf14a018c13d1801774f44f416797b7/learning_1.json",
-                "thumbnail":"https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/assets/learning_1.png"
-            },
-            {
-                "json":"https://gist.githubusercontent.com/mujahid-dzinemedia/ba1405d4d500642da12725b35be578aa/raw/a4695eb3fdf14a018c13d1801774f44f416797b7/learning_1.json",
-                "thumbnail":"https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/assets/learning_1.png"
-            },
-            {
-                "json":"https://gist.githubusercontent.com/mujahid-dzinemedia/ba1405d4d500642da12725b35be578aa/raw/a4695eb3fdf14a018c13d1801774f44f416797b7/learning_1.json",
-                "thumbnail":"https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/assets/learning_1.png"
-            }
-        ]
-    }
+  {
+    "title": "Trending",
+    "templates": [
+      {
+        "json": "learning_1.json",
+        "thumbnail": "thumbnail/learning_1.png"
+      }
+    ]
+  },
+  {
+    "title": "Learning",
+    "templates": [
+      {
+        "json": "learning_1.json",
+        "thumbnail": "thumbnail/learning_1.png"
+      }
+    ]
+  }
 ]
