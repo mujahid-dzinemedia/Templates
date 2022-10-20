@@ -269,12 +269,12 @@
 		"resources": {
 			"image": [
 				{
-					"_name": "gaming_1.svg",
+					"_name": "gaming_1.webp",
 					"_width": "228",
 					"_height": "74.94000244140625"
 				},
 				{
-					"_name": "gaming_2.png",
+					"_name": "gaming_2.webp",
 					"_width": "4267",
 					"_height": "2084"
 				}
