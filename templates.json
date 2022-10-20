@@ -17,6 +17,10 @@
       {
         "json": "json/learning_1.json",
         "thumbnail": "thumbnail/learning_1.png"
+      },
+      {
+        "json": "json/game_2.json",
+        "thumbnail": "thumbnail/gaming_t1.png"
       }
     ]
   },
@@ -30,6 +34,10 @@
       {
         "json": "json/learning_2.json",
         "thumbnail": "thumbnail/learning_2.jpeg"
+      },
+      {
+        "json": "json/game_2.json",
+        "thumbnail": "thumbnail/gaming_t1.png"
       }
     ]
   },
