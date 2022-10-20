@@ -3,19 +3,19 @@
     "title": "Trending",
     "templates": [
       {
-        "json": "5e4e6460b72f5f8909922d8f6aa1b93873c1c670/learning_1.json",
+        "json": "json/learning_1.json",
         "thumbnail": "thumbnail/learning_1.png"
       },
       {
-        "json": "5e4e6460b72f5f8909922d8f6aa1b93873c1c670/learning_1.json",
+        "json": "json/learning_1.json",
         "thumbnail": "thumbnail/learning_1.png"
       },
       {
-        "json": "5e4e6460b72f5f8909922d8f6aa1b93873c1c670/learning_1.json",
+        "json": "json/learning_1.json",
         "thumbnail": "thumbnail/learning_1.png"
       },
       {
-        "json": "5e4e6460b72f5f8909922d8f6aa1b93873c1c670/learning_1.json",
+        "json": "json/learning_1.json",
         "thumbnail": "thumbnail/learning_1.png"
       }
     ]
@@ -24,11 +24,11 @@
     "title": "Learning",
     "templates": [
       {
-        "json": "5e4e6460b72f5f8909922d8f6aa1b93873c1c670/learning_1.json",
+        "json": "json/learning_1.json",
         "thumbnail": "thumbnail/learning_1.png"
       },
       {
-        "json": "5e4e6460b72f5f8909922d8f6aa1b93873c1c670/learning_2.json",
+        "json": "json/learning_2.json",
         "thumbnail": "thumbnail/learning_2.jpeg"
       }
     ]
@@ -37,8 +37,12 @@
     "title": "Games",
     "templates": [
       {
-        "json": "5e4e6460b72f5f8909922d8f6aa1b93873c1c670/learning_1.json",
+        "json": "json/learning_1.json",
         "thumbnail": "thumbnail/games_1.jpeg"
+      },
+      {
+        "json": "json/game_2.json",
+        "thumbnail": "thumbnail/gaming_t1.png"
       }
     ]
   }
