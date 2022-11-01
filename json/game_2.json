@@ -28,12 +28,12 @@
 		"customFonts": {
 			"array": [
 				{
-					"string": "HungerGames",
-					"_key": "Hunger Games.ttf"
+					"string": "Gotham-Medium.ttf",
+					"_key": "Gotham-Medium.ttf"
 				},
 				{
-					"string": "LuckiestGuy-Regular",
-					"_key": "LuckiestGuy-Regular.ttf"
+					"string": "Gotham-Medium.ttf",
+					"_key": "Gotham-Medium.ttf"
 				}
 			],
 			"_key": "customFonts"
@@ -170,8 +170,8 @@
 							},
 							"fontDescription": {
 								"_key": "fontDescription",
-								"_name": "HungerGames",
-								"_family": "Hunger Games",
+								"_name": "Gotham-Medium",
+								"_family":"Gotham-Medium.ttf",
 								"_pointSize": "73"
 							},
 							"color": {
@@ -213,8 +213,8 @@
 							},
 							"fontDescription": {
 								"_key": "fontDescription",
-								"_name": "LuckiestGuy-Regular",
-								"_family": "Luckiest Guy",
+								"_name": "Gotham-Medium",
+								"_family": "Gotham-Medium.ttf",
 								"_pointSize": "56"
 							},
 							"color": {
