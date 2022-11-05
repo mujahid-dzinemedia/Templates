@@ -53,5 +53,14 @@
         "thumbnail": "thumbnail/gaming_t1.png"
       }
     ]
+  },
+  {
+    "title": "Business",
+    "templates": [
+      {
+        "json": "json/business_1.json",
+        "thumbnail": "thumbnail/business_t1.png"
+      }
+    ]
   }
 ]
