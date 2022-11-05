@@ -28,7 +28,7 @@
 		"customFonts": {
 			"array": {
 				"string": "Norwester-Regular",
-				"_key": "Norwester-Regular.ttf"
+				"_key": "norwester.otf"
 			},
 			"_key": "customFonts"
 		},
@@ -63,10 +63,10 @@
 						{
 							"rect": {
 								"_key": "frame",
-								"_x": "0.0",
-								"_y": "0.0",
-								"_width": "1000",
-								"_height": "500"
+								"_x": "-16",
+								"_y": "-12",
+								"_width": "1032",
+								"_height": "526"
 							},
 							"autoresizingMask": {
 								"_key": "autoresizingMask",
@@ -79,7 +79,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_image": "business_2.png",
-							"_id": "6dt-SQ-0ji"
+							"_id": "gk3-kX-ncU"
 						},
 						{
 							"rect": {
@@ -312,8 +312,8 @@
 				},
 				{
 					"_name": "business_2.png",
-					"_width": "4451",
-					"_height": "2235"
+					"_width": "1024",
+					"_height": "500"
 				}
 			],
 			"systemColor": {
