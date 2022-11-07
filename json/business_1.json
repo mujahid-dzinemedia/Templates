@@ -26,10 +26,16 @@
 			]
 		},
 		"customFonts": {
-			"array": {
-				"string": "Norwester-Regular",
-				"_key": "norwester.otf"
-			},
+			"array": [
+				{
+					"string": "Montserrat-Bold",
+					"_key": "Montserrat-Bold.ttf"
+				},
+				{
+					"string": "Montserrat-SemiBold",
+					"_key": "Montserrat-SemiBold.ttf"
+				}
+			],
 			"_key": "customFonts"
 		},
 		"objects": {
@@ -63,10 +69,10 @@
 						{
 							"rect": {
 								"_key": "frame",
-								"_x": "-16",
-								"_y": "-12",
-								"_width": "1032",
-								"_height": "526"
+								"_x": "0.0",
+								"_y": "0.0",
+								"_width": "1000",
+								"_height": "500"
 							},
 							"autoresizingMask": {
 								"_key": "autoresizingMask",
@@ -78,16 +84,16 @@
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_image": "business_2.png",
+							"_image": "business_1.png",
 							"_id": "gk3-kX-ncU"
 						},
 						{
 							"rect": {
 								"_key": "frame",
-								"_x": "106",
-								"_y": "57",
-								"_width": "263",
-								"_height": "420"
+								"_x": "129",
+								"_y": "100",
+								"_width": "276",
+								"_height": "394"
 							},
 							"autoresizingMask": {
 								"_key": "autoresizingMask",
@@ -100,19 +106,19 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "business_1.png",
+							"_image": "business_2.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "uon-SM-XcO"
+							"_id": "OWI-vR-pig"
 						}
 					],
 					"label": [
 						{
 							"rect": {
 								"_key": "frame",
-								"_x": "148",
-								"_y": "85",
-								"_width": "194",
-								"_height": "47"
+								"_x": "417",
+								"_y": "93",
+								"_width": "61",
+								"_height": "41"
 							},
 							"autoresizingMask": {
 								"_key": "autoresizingMask",
@@ -121,15 +127,15 @@
 							},
 							"fontDescription": {
 								"_key": "fontDescription",
-								"_name": "Norwester-Regular",
-								"_family": "Norwester",
-								"_pointSize": "45"
+								"_name": "Montserrat-Bold",
+								"_family": "Montserrat",
+								"_pointSize": "48"
 							},
 							"color": {
 								"_key": "textColor",
-								"_red": "0.0",
-								"_green": "0.0",
-								"_blue": "0.0",
+								"_red": "1",
+								"_green": "1",
+								"_blue": "1",
 								"_alpha": "1",
 								"_colorSpace": "custom",
 								"_customColorSpace": "sRGB"
@@ -142,50 +148,7 @@
 							"_contentMode": "left",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_text": "Earn $100",
-							"_textAlignment": "natural",
-							"_lineBreakMode": "tailTruncation",
-							"_baselineAdjustment": "alignBaselines",
-							"_adjustsFontSizeToFit": "NO",
-							"_id": "rbW-az-Xh7"
-						},
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "175",
-								"_y": "150",
-								"_width": "140",
-								"_height": "21"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"fontDescription": {
-								"_key": "fontDescription",
-								"_name": "Norwester-Regular",
-								"_family": "Norwester",
-								"_pointSize": "26"
-							},
-							"color": {
-								"_key": "textColor",
-								"_red": "0.0",
-								"_green": "0.0",
-								"_blue": "0.0",
-								"_alpha": "1",
-								"_colorSpace": "custom",
-								"_customColorSpace": "sRGB"
-							},
-							"nil": {
-								"_key": "highlightedColor"
-							},
-							"_opaque": "NO",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "left",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_text": "Online Work",
+							"_text": "5k",
 							"_textAlignment": "natural",
 							"_lineBreakMode": "tailTruncation",
 							"_baselineAdjustment": "alignBaselines",
@@ -195,10 +158,10 @@
 						{
 							"rect": {
 								"_key": "frame",
-								"_x": "416",
-								"_y": "331",
-								"_width": "403",
-								"_height": "64"
+								"_x": "562",
+								"_y": "302",
+								"_width": "236",
+								"_height": "30"
 							},
 							"autoresizingMask": {
 								"_key": "autoresizingMask",
@@ -207,15 +170,15 @@
 							},
 							"fontDescription": {
 								"_key": "fontDescription",
-								"_name": "Norwester-Regular",
-								"_family": "Norwester",
-								"_pointSize": "53"
+								"_name": "Montserrat-SemiBold",
+								"_family": "Montserrat",
+								"_pointSize": "24"
 							},
 							"color": {
 								"_key": "textColor",
-								"_red": "0.0",
-								"_green": "0.0",
-								"_blue": "0.0",
+								"_red": "1",
+								"_green": "1",
+								"_blue": "1",
 								"_alpha": "1",
 								"_colorSpace": "custom",
 								"_customColorSpace": "sRGB"
@@ -228,20 +191,20 @@
 							"_contentMode": "left",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_text": "Earn $100 TO $500",
+							"_text": "Up Coming Project",
 							"_textAlignment": "natural",
 							"_lineBreakMode": "tailTruncation",
 							"_baselineAdjustment": "alignBaselines",
 							"_adjustsFontSizeToFit": "NO",
-							"_id": "fTJ-Lr-qpe"
+							"_id": "1en-Es-35p"
 						},
 						{
 							"rect": {
 								"_key": "frame",
-								"_x": "414",
-								"_y": "402",
-								"_width": "466",
-								"_height": "51"
+								"_x": "542",
+								"_y": "185",
+								"_width": "369",
+								"_height": "45"
 							},
 							"autoresizingMask": {
 								"_key": "autoresizingMask",
@@ -250,15 +213,15 @@
 							},
 							"fontDescription": {
 								"_key": "fontDescription",
-								"_name": "Norwester-Regular",
-								"_family": "Norwester",
-								"_pointSize": "42"
+								"_name": "Montserrat-SemiBold",
+								"_family": "Montserrat",
+								"_pointSize": "36.5"
 							},
 							"color": {
 								"_key": "textColor",
-								"_red": "0.0",
-								"_green": "0.0",
-								"_blue": "0.0",
+								"_red": "1",
+								"_green": "1",
+								"_blue": "1",
 								"_alpha": "1",
 								"_colorSpace": "custom",
 								"_customColorSpace": "sRGB"
@@ -271,12 +234,98 @@
 							"_contentMode": "left",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_text": "ONLINE WORK ( DATA ENTRY)",
+							"_text": "HOW TO PROMOTE",
 							"_textAlignment": "natural",
 							"_lineBreakMode": "tailTruncation",
 							"_baselineAdjustment": "alignBaselines",
 							"_adjustsFontSizeToFit": "NO",
-							"_id": "vnz-FT-ntY"
+							"_id": "LRv-Mo-VSU"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "543",
+								"_y": "228",
+								"_width": "245",
+								"_height": "45"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Montserrat-SemiBold",
+								"_family": "Montserrat",
+								"_pointSize": "36.5"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "1",
+								"_green": "1",
+								"_blue": "1",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "YT CHANNEL",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "Yux-Ll-IzL"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "635",
+								"_y": "33",
+								"_width": "85",
+								"_height": "21"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Montserrat-SemiBold",
+								"_family": "Montserrat",
+								"_pointSize": "17"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.0016697414690000001",
+								"_green": "0.37816941739999999",
+								"_blue": "0.64816373589999998",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "Follow Us",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "w8M-73-WHk"
 						}
 					]
 				},
@@ -307,13 +356,13 @@
 			"image": [
 				{
 					"_name": "business_1.png",
-					"_width": "1175",
-					"_height": "1879"
+					"_width": "4267",
+					"_height": "2085"
 				},
 				{
 					"_name": "business_2.png",
-					"_width": "1024",
-					"_height": "500"
+					"_width": "1192",
+					"_height": "1687"
 				}
 			],
 			"systemColor": {
