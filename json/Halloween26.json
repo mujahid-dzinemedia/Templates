@@ -84,7 +84,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "Halloween26_1",
+							"_image": "Halloween26_1.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "BZy-BU-y2o"
 						},
@@ -107,7 +107,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "Halloween26_2",
+							"_image": "Halloween26_2.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "dsq-Zf-gT2"
 						},
@@ -130,7 +130,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "Halloween26_3",
+							"_image": "Halloween26_3.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "SeS-EH-93C"
 						},
@@ -153,7 +153,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "Halloween26_4",
+							"_image": "Halloween26_4.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "CeP-pB-83E"
 						}
@@ -851,22 +851,22 @@
 		"resources": {
 			"image": [
 				{
-					"_name": "Halloween26_1",
+					"_name": "Halloween26_1.png",
 					"_width": "420",
 					"_height": "720"
 				},
 				{
-					"_name": "Halloween26_2",
+					"_name": "Halloween26_2.png",
 					"_width": "584",
 					"_height": "584"
 				},
 				{
-					"_name": "Halloween26_3",
+					"_name": "Halloween26_3.png",
 					"_width": "271",
 					"_height": "12"
 				},
 				{
-					"_name": "Halloween26_4",
+					"_name": "Halloween26_4.png",
 					"_width": "304",
 					"_height": "32"
 				}
