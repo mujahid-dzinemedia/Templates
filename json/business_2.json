@@ -50,8 +50,8 @@
 					"_key": "frame",
 					"_x": "0.0",
 					"_y": "0.0",
-					"_width": "1000",
-					"_height": "500"
+					"_width": "1280",
+					"_height": "720"
 				},
 				"autoresizingMask": {
 					"_key": "autoresizingMask",
@@ -65,8 +65,8 @@
 								"_key": "frame",
 								"_x": "0.0",
 								"_y": "0.0",
-								"_width": "1000",
-								"_height": "500"
+								"_width": "1280",
+								"_height": "720"
 							},
 							"autoresizingMask": {
 								"_key": "autoresizingMask",
@@ -78,16 +78,18 @@
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
 							"_image": "business_2_1.png",
-							"_id": "dqE-dn-1RG"
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "4dy-Vq-a6n"
 						},
 						{
 							"rect": {
 								"_key": "frame",
-								"_x": "541",
-								"_y": "50",
-								"_width": "415",
-								"_height": "456"
+								"_x": "715",
+								"_y": "157",
+								"_width": "495",
+								"_height": "563"
 							},
 							"autoresizingMask": {
 								"_key": "autoresizingMask",
@@ -99,16 +101,41 @@
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
 							"_image": "business_2_2.png",
-							"_id": "l12-ZR-snQ"
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "BDQ-HG-zcw"
 						},
 						{
 							"rect": {
 								"_key": "frame",
-								"_x": "48",
-								"_y": "161",
-								"_width": "465",
-								"_height": "179"
+								"_x": "63",
+								"_y": "249",
+								"_width": "594",
+								"_height": "109"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "business_2_4.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "oFd-YS-P61"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "63",
+								"_y": "367",
+								"_width": "328",
+								"_height": "109"
 							},
 							"autoresizingMask": {
 								"_key": "autoresizingMask",
@@ -123,17 +150,17 @@
 							"_fixedFrame": "YES",
 							"_image": "business_2_3.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "27v-W2-qDu"
+							"_id": "vjE-SM-5c0"
 						}
 					],
 					"label": [
 						{
 							"rect": {
 								"_key": "frame",
-								"_x": "66",
-								"_y": "175",
-								"_width": "433",
-								"_height": "61"
+								"_x": "86",
+								"_y": "268",
+								"_width": "545",
+								"_height": "77"
 							},
 							"autoresizingMask": {
 								"_key": "autoresizingMask",
@@ -144,7 +171,7 @@
 								"_key": "fontDescription",
 								"_name": "Montserrat-Bold",
 								"_family": "Montserrat",
-								"_pointSize": "20"
+								"_pointSize": "63"
 							},
 							"color": {
 								"_key": "textColor",
@@ -168,15 +195,15 @@
 							"_lineBreakMode": "tailTruncation",
 							"_baselineAdjustment": "alignBaselines",
 							"_adjustsFontSizeToFit": "NO",
-							"_id": "CKu-Wc-9Xm"
+							"_id": "Dis-1Z-ajc"
 						},
 						{
 							"rect": {
 								"_key": "frame",
-								"_x": "66",
-								"_y": "261",
-								"_width": "166",
-								"_height": "61"
+								"_x": "85",
+								"_y": "378",
+								"_width": "209",
+								"_height": "77"
 							},
 							"autoresizingMask": {
 								"_key": "autoresizingMask",
@@ -187,7 +214,7 @@
 								"_key": "fontDescription",
 								"_name": "Montserrat-Bold",
 								"_family": "Montserrat",
-								"_pointSize": "20"
+								"_pointSize": "63"
 							},
 							"color": {
 								"_key": "textColor",
@@ -211,7 +238,7 @@
 							"_lineBreakMode": "tailTruncation",
 							"_baselineAdjustment": "alignBaselines",
 							"_adjustsFontSizeToFit": "NO",
-							"_id": "VHE-zK-Pdz"
+							"_id": "sOd-Hf-Cse"
 						}
 					]
 				},
@@ -242,18 +269,23 @@
 			"image": [
 				{
 					"_name": "business_2_1.png",
-					"_width": "1000",
-					"_height": "500"
+					"_width": "1280",
+					"_height": "720"
 				},
 				{
 					"_name": "business_2_2.png",
-					"_width": "402",
-					"_height": "448"
+					"_width": "494",
+					"_height": "564"
 				},
 				{
 					"_name": "business_2_3.png",
-					"_width": "462",
-					"_height": "174"
+					"_width": "326",
+					"_height": "106"
+				},
+				{
+					"_name": "business_2_4.png",
+					"_width": "592",
+					"_height": "106"
 				}
 			],
 			"systemColor": {
