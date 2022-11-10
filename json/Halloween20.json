@@ -1,829 +1,415 @@
 ﻿{
 	"document": {
-		"device": {
-			"_id": "retina6_1",
-			"_orientation": "portrait",
-			"_appearance": "light"
+	  "device": {
+		"_id": "retina6_1",
+		"_orientation": "portrait",
+		"_appearance": "light"
+	  },
+	  "dependencies": {
+		"deployment": {
+		  "_identifier": "iOS"
 		},
-		"dependencies": {
-			"deployment": {
-				"_identifier": "iOS"
-			},
-			"plugIn": {
-				"_identifier": "com.apple.InterfaceBuilder.IBCocoaTouchPlugin",
-				"_version": "18093"
-			},
-			"capability": [
-				{
-					"_name": "Safe area layout guides",
-					"_minToolsVersion": "9.0"
-				},
-				{
-					"_name": "documents saved in the Xcode 8 format",
-					"_minToolsVersion": "8.0"
-				}
-			]
+		"plugIn": {
+		  "_identifier": "com.apple.InterfaceBuilder.IBCocoaTouchPlugin",
+		  "_version": "18093"
 		},
-		"customFonts": {
-			"array": [
-				{
-					"string": "BDCartoonShout",
-					"_key": "BD Cartoon Shout.ttf"
-				},
-				{
-					"string": "Montserrat-Medium",
-					"_key": "Montserrat-Medium.ttf"
-				}
-			],
-			"_key": "customFonts"
-		},
-		"objects": {
-			"placeholder": [
-				{
-					"_placeholderIdentifier": "IBFilesOwner",
-					"_id": "-1",
-					"_userLabel": "File's Owner"
-				},
-				{
-					"_placeholderIdentifier": "IBFirstResponder",
-					"_id": "-2",
-					"_customClass": "UIResponder"
-				}
-			],
-			"view": {
+		"capability": [
+		  {
+			"_name": "Safe area layout guides",
+			"_minToolsVersion": "9.0"
+		  },
+		  {
+			"_name": "documents saved in the Xcode 8 format",
+			"_minToolsVersion": "8.0"
+		  }
+		]
+	  },
+	  "customFonts": {
+		"array": [
+		  {
+			"string": "BDCartoonShout",
+			"_key": "BD Cartoon Shout.ttf"
+		  },
+		  {
+			"string": "Montserrat-Medium",
+			"_key": "Montserrat-Medium.ttf"
+		  }
+		],
+		"_key": "customFonts"
+	  },
+	  "objects": {
+		"placeholder": [
+		  {
+			"_placeholderIdentifier": "IBFilesOwner",
+			"_id": "-1",
+			"_userLabel": "File's Owner"
+		  },
+		  {
+			"_placeholderIdentifier": "IBFirstResponder",
+			"_id": "-2",
+			"_customClass": "UIResponder"
+		  }
+		],
+		"view": {
+		  "rect": {
+			"_key": "frame",
+			"_x": "0.0",
+			"_y": "0.0",
+			"_width": "1280",
+			"_height": "720"
+		  },
+		  "autoresizingMask": {
+			"_key": "autoresizingMask",
+			"_widthSizable": "YES",
+			"_heightSizable": "YES"
+		  },
+		  "subviews": {
+			"imageView": [
+			  {
 				"rect": {
-					"_key": "frame",
-					"_x": "0.0",
-					"_y": "0.0",
-					"_width": "1280",
-					"_height": "720"
+				  "_key": "frame",
+				  "_x": "0.0",
+				  "_y": "0.0",
+				  "_width": "1280",
+				  "_height": "720"
 				},
 				"autoresizingMask": {
-					"_key": "autoresizingMask",
-					"_widthSizable": "YES",
-					"_heightSizable": "YES"
+				  "_key": "autoresizingMask",
+				  "_flexibleMaxX": "YES",
+				  "_flexibleMaxY": "YES"
 				},
-				"subviews": {
-					"imageView": [
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "0.0",
-								"_y": "0.0",
-								"_width": "1280",
-								"_height": "720"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"_clipsSubviews": "YES",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "scaleAspectFit",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_image": "Halloween20_1.png",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "gbe-OX-Zrb"
-						},
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "42",
-								"_y": "149",
-								"_width": "718.5",
-								"_height": "28.5"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"_clipsSubviews": "YES",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "scaleAspectFit",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_image": "Halloween20_2.png",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "2Oc-qp-qYI"
-						},
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "42",
-								"_y": "579",
-								"_width": "719.5",
-								"_height": "73"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"_clipsSubviews": "YES",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "scaleAspectFit",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_image": "Halloween20_3.png",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "B0t-ma-my6"
-						}
-					],
-					"label": [
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "-10",
-								"_y": "-20",
-								"_width": "143",
-								"_height": "109"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"fontDescription": {
-								"_key": "fontDescription",
-								"_name": "BDCartoonShout",
-								"_family": "BD Cartoon Shout",
-								"_pointSize": "105"
-							},
-							"color": {
-								"_key": "textColor",
-								"_red": "1",
-								"_green": "1",
-								"_blue": "1",
-								"_alpha": "1",
-								"_colorSpace": "custom",
-								"_customColorSpace": "sRGB"
-							},
-							"nil": {
-								"_key": "highlightedColor"
-							},
-							"_opaque": "NO",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "left",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_text": "20",
-							"_lineBreakMode": "tailTruncation",
-							"_baselineAdjustment": "alignBaselines",
-							"_adjustsFontSizeToFit": "NO",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "TaE-aw-t2J"
-						},
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "10",
-								"_y": "140",
-								"_width": "623",
-								"_height": "190"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"fontDescription": {
-								"_key": "fontDescription",
-								"_name": "BDCartoonShout",
-								"_family": "BD Cartoon Shout",
-								"_pointSize": "170"
-							},
-							"color": {
-								"_key": "textColor",
-								"_red": "1",
-								"_green": "0.87058823529411766",
-								"_blue": "0.0",
-								"_alpha": "1",
-								"_colorSpace": "custom",
-								"_customColorSpace": "sRGB"
-							},
-							"nil": {
-								"_key": "highlightedColor"
-							},
-							"_opaque": "NO",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "left",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_text": "HALLO",
-							"_lineBreakMode": "tailTruncation",
-							"_baselineAdjustment": "alignBaselines",
-							"_adjustsFontSizeToFit": "NO",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "OAN-fc-Gyk"
-						},
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "185",
-								"_y": "30",
-								"_width": "150",
-								"_height": "43"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"fontDescription": {
-								"_key": "fontDescription",
-								"_name": "Montserrat-Medium",
-								"_family": "Montserrat",
-								"_pointSize": "40"
-							},
-							"color": {
-								"_key": "textColor",
-								"_red": "1",
-								"_green": "1",
-								"_blue": "1",
-								"_alpha": "1",
-								"_colorSpace": "custom",
-								"_customColorSpace": "sRGB"
-							},
-							"nil": {
-								"_key": "highlightedColor"
-							},
-							"_opaque": "NO",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "left",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_text": "GAMES",
-							"_lineBreakMode": "tailTruncation",
-							"_baselineAdjustment": "alignBaselines",
-							"_adjustsFontSizeToFit": "NO",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "oL9-Ib-hAQ"
-						},
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "10",
-								"_y": "330",
-								"_width": "542",
-								"_height": "190"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"fontDescription": {
-								"_key": "fontDescription",
-								"_name": "BDCartoonShout",
-								"_family": "BD Cartoon Shout",
-								"_pointSize": "170"
-							},
-							"color": {
-								"_key": "textColor",
-								"_red": "1",
-								"_green": "0.87058823529999996",
-								"_blue": "0.0",
-								"_alpha": "1",
-								"_colorSpace": "custom",
-								"_customColorSpace": "sRGB"
-							},
-							"nil": {
-								"_key": "highlightedColor"
-							},
-							"_opaque": "NO",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "left",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_text": "WEEN",
-							"_lineBreakMode": "tailTruncation",
-							"_baselineAdjustment": "alignBaselines",
-							"_adjustsFontSizeToFit": "NO",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "ekN-J3-hcM"
-						},
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "30",
-								"_y": "540",
-								"_width": "670",
-								"_height": "46"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"fontDescription": {
-								"_key": "fontDescription",
-								"_name": "Montserrat-Medium",
-								"_family": "Montserrat",
-								"_pointSize": "37"
-							},
-							"color": {
-								"_key": "textColor",
-								"_red": "0.0",
-								"_green": "0.0",
-								"_blue": "0.0",
-								"_alpha": "1",
-								"_colorSpace": "custom",
-								"_customColorSpace": "sRGB"
-							},
-							"nil": {
-								"_key": "highlightedColor"
-							},
-							"_opaque": "NO",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "left",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_text": "F O R   T H E   W H O L E   F A M I L Y",
-							"_lineBreakMode": "tailTruncation",
-							"_baselineAdjustment": "alignBaselines",
-							"_adjustsFontSizeToFit": "NO",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "vwG-j7-xRj"
-						}
-					]
-				},
-				"viewLayoutGuide": {
-					"_key": "safeArea",
-					"_id": "vUN-kp-3ea"
-				},
-				"color": {
-					"_key": "backgroundColor",
-					"_red": "1",
-					"_green": "1",
-					"_blue": "1",
-					"_alpha": "1",
-					"_colorSpace": "custom",
-					"_customColorSpace": "sRGB"
-				},
-				"freeformSimulatedSizeMetrics": {
-					"_key": "simulatedDestinationMetrics"
-				},
-				"point": {
-					"_key": "canvasLocation",
-					"_x": "137.68115942028987",
-					"_y": "134.59821428571428"
-				},
-				"_contentMode": "scaleToFill",
-				"_id": "iN0-l3-epB"
-			}
-		},
-		"resources": {
-			"image": [
-				{
-					"_name": "Halloween20_1",
-					"_width": "1280",
-					"_height": "720"
-				},
-				{
-					"_name": "Halloween20_2",
-					"_width": "719",
-					"_height": "28"
-				},
-				{
-					"_name": "Halloween20_3",
-					"_width": "720",
-					"_height": "73"
-				}
-			]
-		},
-		"_type": "com.apple.InterfaceBuilder3.CocoaTouch.XIB",
-		"_version": "3.0",
-		"_toolsVersion": "18122",
-		"_targetRuntime": "iOS.CocoaTouch",
-		"_propertyAccessControl": "none",
-		"_useAutolayout": "YES",
-		"_useTraitCollections": "YES",
-		"_useSafeAreas": "YES",
-		"_colorMatched": "YES"
-	}
-}﻿{
-	"document": {
-		"device": {
-			"_id": "retina6_1",
-			"_orientation": "portrait",
-			"_appearance": "light"
-		},
-		"dependencies": {
-			"deployment": {
-				"_identifier": "iOS"
-			},
-			"plugIn": {
-				"_identifier": "com.apple.InterfaceBuilder.IBCocoaTouchPlugin",
-				"_version": "18093"
-			},
-			"capability": [
-				{
-					"_name": "Safe area layout guides",
-					"_minToolsVersion": "9.0"
-				},
-				{
-					"_name": "documents saved in the Xcode 8 format",
-					"_minToolsVersion": "8.0"
-				}
-			]
-		},
-		"customFonts": {
-			"array": [
-				{
-					"string": "BDCartoonShout",
-					"_key": "BD Cartoon Shout.ttf"
-				},
-				{
-					"string": "Montserrat-Medium",
-					"_key": "Montserrat-Medium.ttf"
-				}
-			],
-			"_key": "customFonts"
-		},
-		"objects": {
-			"placeholder": [
-				{
-					"_placeholderIdentifier": "IBFilesOwner",
-					"_id": "-1",
-					"_userLabel": "File's Owner"
-				},
-				{
-					"_placeholderIdentifier": "IBFirstResponder",
-					"_id": "-2",
-					"_customClass": "UIResponder"
-				}
-			],
-			"view": {
+				"_clipsSubviews": "YES",
+				"_userInteractionEnabled": "NO",
+				"_contentMode": "scaleAspectFit",
+				"_horizontalHuggingPriority": "251",
+				"_verticalHuggingPriority": "251",
+				"_fixedFrame": "YES",
+				"_image": "Halloween20_1.png",
+				"_translatesAutoresizingMaskIntoConstraints": "NO",
+				"_id": "gbe-OX-Zrb"
+			  },
+			  {
 				"rect": {
-					"_key": "frame",
-					"_x": "0.0",
-					"_y": "0.0",
-					"_width": "1280",
-					"_height": "720"
+				  "_key": "frame",
+				  "_x": "42",
+				  "_y": "149",
+				  "_width": "718.5",
+				  "_height": "28.5"
 				},
 				"autoresizingMask": {
-					"_key": "autoresizingMask",
-					"_widthSizable": "YES",
-					"_heightSizable": "YES"
+				  "_key": "autoresizingMask",
+				  "_flexibleMaxX": "YES",
+				  "_flexibleMaxY": "YES"
 				},
-				"subviews": {
-					"imageView": [
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "0.0",
-								"_y": "0.0",
-								"_width": "1280",
-								"_height": "720"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"_clipsSubviews": "YES",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "scaleAspectFit",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_image": "Halloween20_1",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "gbe-OX-Zrb"
-						},
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "42",
-								"_y": "149",
-								"_width": "718.5",
-								"_height": "28.5"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"_clipsSubviews": "YES",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "scaleAspectFit",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_image": "Halloween20_2",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "2Oc-qp-qYI"
-						},
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "42",
-								"_y": "579",
-								"_width": "719.5",
-								"_height": "73"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"_clipsSubviews": "YES",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "scaleAspectFit",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_image": "Halloween20_3",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "B0t-ma-my6"
-						}
-					],
-					"label": [
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "-10",
-								"_y": "-20",
-								"_width": "143",
-								"_height": "109"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"fontDescription": {
-								"_key": "fontDescription",
-								"_name": "BDCartoonShout",
-								"_family": "BD Cartoon Shout",
-								"_pointSize": "105"
-							},
-							"color": {
-								"_key": "textColor",
-								"_red": "1",
-								"_green": "1",
-								"_blue": "1",
-								"_alpha": "1",
-								"_colorSpace": "custom",
-								"_customColorSpace": "sRGB"
-							},
-							"nil": {
-								"_key": "highlightedColor"
-							},
-							"_opaque": "NO",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "left",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_text": "20",
-							"_lineBreakMode": "tailTruncation",
-							"_baselineAdjustment": "alignBaselines",
-							"_adjustsFontSizeToFit": "NO",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "TaE-aw-t2J"
-						},
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "10",
-								"_y": "140",
-								"_width": "623",
-								"_height": "190"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"fontDescription": {
-								"_key": "fontDescription",
-								"_name": "BDCartoonShout",
-								"_family": "BD Cartoon Shout",
-								"_pointSize": "170"
-							},
-							"color": {
-								"_key": "textColor",
-								"_red": "1",
-								"_green": "0.87058823529411766",
-								"_blue": "0.0",
-								"_alpha": "1",
-								"_colorSpace": "custom",
-								"_customColorSpace": "sRGB"
-							},
-							"nil": {
-								"_key": "highlightedColor"
-							},
-							"_opaque": "NO",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "left",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_text": "HALLO",
-							"_lineBreakMode": "tailTruncation",
-							"_baselineAdjustment": "alignBaselines",
-							"_adjustsFontSizeToFit": "NO",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "OAN-fc-Gyk"
-						},
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "185",
-								"_y": "30",
-								"_width": "150",
-								"_height": "43"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"fontDescription": {
-								"_key": "fontDescription",
-								"_name": "Montserrat-Medium",
-								"_family": "Montserrat",
-								"_pointSize": "40"
-							},
-							"color": {
-								"_key": "textColor",
-								"_red": "1",
-								"_green": "1",
-								"_blue": "1",
-								"_alpha": "1",
-								"_colorSpace": "custom",
-								"_customColorSpace": "sRGB"
-							},
-							"nil": {
-								"_key": "highlightedColor"
-							},
-							"_opaque": "NO",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "left",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_text": "GAMES",
-							"_lineBreakMode": "tailTruncation",
-							"_baselineAdjustment": "alignBaselines",
-							"_adjustsFontSizeToFit": "NO",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "oL9-Ib-hAQ"
-						},
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "10",
-								"_y": "330",
-								"_width": "542",
-								"_height": "190"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"fontDescription": {
-								"_key": "fontDescription",
-								"_name": "BDCartoonShout",
-								"_family": "BD Cartoon Shout",
-								"_pointSize": "170"
-							},
-							"color": {
-								"_key": "textColor",
-								"_red": "1",
-								"_green": "0.87058823529999996",
-								"_blue": "0.0",
-								"_alpha": "1",
-								"_colorSpace": "custom",
-								"_customColorSpace": "sRGB"
-							},
-							"nil": {
-								"_key": "highlightedColor"
-							},
-							"_opaque": "NO",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "left",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_text": "WEEN",
-							"_lineBreakMode": "tailTruncation",
-							"_baselineAdjustment": "alignBaselines",
-							"_adjustsFontSizeToFit": "NO",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "ekN-J3-hcM"
-						},
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "30",
-								"_y": "540",
-								"_width": "670",
-								"_height": "46"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"fontDescription": {
-								"_key": "fontDescription",
-								"_name": "Montserrat-Medium",
-								"_family": "Montserrat",
-								"_pointSize": "37"
-							},
-							"color": {
-								"_key": "textColor",
-								"_red": "0.0",
-								"_green": "0.0",
-								"_blue": "0.0",
-								"_alpha": "1",
-								"_colorSpace": "custom",
-								"_customColorSpace": "sRGB"
-							},
-							"nil": {
-								"_key": "highlightedColor"
-							},
-							"_opaque": "NO",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "left",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_text": "F O R   T H E   W H O L E   F A M I L Y",
-							"_lineBreakMode": "tailTruncation",
-							"_baselineAdjustment": "alignBaselines",
-							"_adjustsFontSizeToFit": "NO",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "vwG-j7-xRj"
-						}
-					]
+				"_clipsSubviews": "YES",
+				"_userInteractionEnabled": "NO",
+				"_contentMode": "scaleAspectFit",
+				"_horizontalHuggingPriority": "251",
+				"_verticalHuggingPriority": "251",
+				"_fixedFrame": "YES",
+				"_image": "Halloween20_2.png",
+				"_translatesAutoresizingMaskIntoConstraints": "NO",
+				"_id": "2Oc-qp-qYI"
+			  },
+			  {
+				"rect": {
+				  "_key": "frame",
+				  "_x": "42",
+				  "_y": "579",
+				  "_width": "719.5",
+				  "_height": "73"
 				},
-				"viewLayoutGuide": {
-					"_key": "safeArea",
-					"_id": "vUN-kp-3ea"
+				"autoresizingMask": {
+				  "_key": "autoresizingMask",
+				  "_flexibleMaxX": "YES",
+				  "_flexibleMaxY": "YES"
+				},
+				"_clipsSubviews": "YES",
+				"_userInteractionEnabled": "NO",
+				"_contentMode": "scaleAspectFit",
+				"_horizontalHuggingPriority": "251",
+				"_verticalHuggingPriority": "251",
+				"_fixedFrame": "YES",
+				"_image": "Halloween20_3.png",
+				"_translatesAutoresizingMaskIntoConstraints": "NO",
+				"_id": "B0t-ma-my6"
+			  }
+			],
+			"label": [
+			  {
+				"rect": {
+				  "_key": "frame",
+				  "_x": "-10",
+				  "_y": "-20",
+				  "_width": "143",
+				  "_height": "109"
+				},
+				"autoresizingMask": {
+				  "_key": "autoresizingMask",
+				  "_flexibleMaxX": "YES",
+				  "_flexibleMaxY": "YES"
+				},
+				"fontDescription": {
+				  "_key": "fontDescription",
+				  "_name": "BDCartoonShout",
+				  "_family": "BD Cartoon Shout",
+				  "_pointSize": "105"
 				},
 				"color": {
-					"_key": "backgroundColor",
-					"_red": "1",
-					"_green": "1",
-					"_blue": "1",
-					"_alpha": "1",
-					"_colorSpace": "custom",
-					"_customColorSpace": "sRGB"
+				  "_key": "textColor",
+				  "_red": "1",
+				  "_green": "1",
+				  "_blue": "1",
+				  "_alpha": "1",
+				  "_colorSpace": "custom",
+				  "_customColorSpace": "sRGB"
 				},
-				"freeformSimulatedSizeMetrics": {
-					"_key": "simulatedDestinationMetrics"
+				"nil": {
+				  "_key": "highlightedColor"
 				},
-				"point": {
-					"_key": "canvasLocation",
-					"_x": "137.68115942028987",
-					"_y": "134.59821428571428"
+				"_opaque": "NO",
+				"_userInteractionEnabled": "NO",
+				"_contentMode": "left",
+				"_horizontalHuggingPriority": "251",
+				"_verticalHuggingPriority": "251",
+				"_fixedFrame": "YES",
+				"_text": "20",
+				"_lineBreakMode": "tailTruncation",
+				"_baselineAdjustment": "alignBaselines",
+				"_adjustsFontSizeToFit": "NO",
+				"_translatesAutoresizingMaskIntoConstraints": "NO",
+				"_id": "TaE-aw-t2J"
+			  },
+			  {
+				"rect": {
+				  "_key": "frame",
+				  "_x": "10",
+				  "_y": "140",
+				  "_width": "623",
+				  "_height": "190"
 				},
-				"_contentMode": "scaleToFill",
-				"_id": "iN0-l3-epB"
-			}
-		},
-		"resources": {
-			"image": [
-				{
-					"_name": "Halloween20_1.png",
-					"_width": "1280",
-					"_height": "720"
+				"autoresizingMask": {
+				  "_key": "autoresizingMask",
+				  "_flexibleMaxX": "YES",
+				  "_flexibleMaxY": "YES"
 				},
-				{
-					"_name": "Halloween20_2.png",
-					"_width": "719",
-					"_height": "28"
+				"fontDescription": {
+				  "_key": "fontDescription",
+				  "_name": "BDCartoonShout",
+				  "_family": "BD Cartoon Shout",
+				  "_pointSize": "170"
 				},
-				{
-					"_name": "Halloween20_3.png",
-					"_width": "720",
-					"_height": "73"
-				}
+				"color": {
+				  "_key": "textColor",
+				  "_red": "1",
+				  "_green": "0.87058823529411766",
+				  "_blue": "0.0",
+				  "_alpha": "1",
+				  "_colorSpace": "custom",
+				  "_customColorSpace": "sRGB"
+				},
+				"nil": {
+				  "_key": "highlightedColor"
+				},
+				"_opaque": "NO",
+				"_userInteractionEnabled": "NO",
+				"_contentMode": "left",
+				"_horizontalHuggingPriority": "251",
+				"_verticalHuggingPriority": "251",
+				"_fixedFrame": "YES",
+				"_text": "HALLO",
+				"_lineBreakMode": "tailTruncation",
+				"_baselineAdjustment": "alignBaselines",
+				"_adjustsFontSizeToFit": "NO",
+				"_translatesAutoresizingMaskIntoConstraints": "NO",
+				"_id": "OAN-fc-Gyk"
+			  },
+			  {
+				"rect": {
+				  "_key": "frame",
+				  "_x": "185",
+				  "_y": "30",
+				  "_width": "150",
+				  "_height": "43"
+				},
+				"autoresizingMask": {
+				  "_key": "autoresizingMask",
+				  "_flexibleMaxX": "YES",
+				  "_flexibleMaxY": "YES"
+				},
+				"fontDescription": {
+				  "_key": "fontDescription",
+				  "_name": "Montserrat-Medium",
+				  "_family": "Montserrat",
+				  "_pointSize": "40"
+				},
+				"color": {
+				  "_key": "textColor",
+				  "_red": "1",
+				  "_green": "1",
+				  "_blue": "1",
+				  "_alpha": "1",
+				  "_colorSpace": "custom",
+				  "_customColorSpace": "sRGB"
+				},
+				"nil": {
+				  "_key": "highlightedColor"
+				},
+				"_opaque": "NO",
+				"_userInteractionEnabled": "NO",
+				"_contentMode": "left",
+				"_horizontalHuggingPriority": "251",
+				"_verticalHuggingPriority": "251",
+				"_fixedFrame": "YES",
+				"_text": "GAMES",
+				"_lineBreakMode": "tailTruncation",
+				"_baselineAdjustment": "alignBaselines",
+				"_adjustsFontSizeToFit": "NO",
+				"_translatesAutoresizingMaskIntoConstraints": "NO",
+				"_id": "oL9-Ib-hAQ"
+			  },
+			  {
+				"rect": {
+				  "_key": "frame",
+				  "_x": "10",
+				  "_y": "330",
+				  "_width": "542",
+				  "_height": "190"
+				},
+				"autoresizingMask": {
+				  "_key": "autoresizingMask",
+				  "_flexibleMaxX": "YES",
+				  "_flexibleMaxY": "YES"
+				},
+				"fontDescription": {
+				  "_key": "fontDescription",
+				  "_name": "BDCartoonShout",
+				  "_family": "BD Cartoon Shout",
+				  "_pointSize": "170"
+				},
+				"color": {
+				  "_key": "textColor",
+				  "_red": "1",
+				  "_green": "0.87058823529999996",
+				  "_blue": "0.0",
+				  "_alpha": "1",
+				  "_colorSpace": "custom",
+				  "_customColorSpace": "sRGB"
+				},
+				"nil": {
+				  "_key": "highlightedColor"
+				},
+				"_opaque": "NO",
+				"_userInteractionEnabled": "NO",
+				"_contentMode": "left",
+				"_horizontalHuggingPriority": "251",
+				"_verticalHuggingPriority": "251",
+				"_fixedFrame": "YES",
+				"_text": "WEEN",
+				"_lineBreakMode": "tailTruncation",
+				"_baselineAdjustment": "alignBaselines",
+				"_adjustsFontSizeToFit": "NO",
+				"_translatesAutoresizingMaskIntoConstraints": "NO",
+				"_id": "ekN-J3-hcM"
+			  },
+			  {
+				"rect": {
+				  "_key": "frame",
+				  "_x": "30",
+				  "_y": "540",
+				  "_width": "670",
+				  "_height": "46"
+				},
+				"autoresizingMask": {
+				  "_key": "autoresizingMask",
+				  "_flexibleMaxX": "YES",
+				  "_flexibleMaxY": "YES"
+				},
+				"fontDescription": {
+				  "_key": "fontDescription",
+				  "_name": "Montserrat-Medium",
+				  "_family": "Montserrat",
+				  "_pointSize": "37"
+				},
+				"color": {
+				  "_key": "textColor",
+				  "_red": "0.0",
+				  "_green": "0.0",
+				  "_blue": "0.0",
+				  "_alpha": "1",
+				  "_colorSpace": "custom",
+				  "_customColorSpace": "sRGB"
+				},
+				"nil": {
+				  "_key": "highlightedColor"
+				},
+				"_opaque": "NO",
+				"_userInteractionEnabled": "NO",
+				"_contentMode": "left",
+				"_horizontalHuggingPriority": "251",
+				"_verticalHuggingPriority": "251",
+				"_fixedFrame": "YES",
+				"_text": "F O R   T H E   W H O L E   F A M I L Y",
+				"_lineBreakMode": "tailTruncation",
+				"_baselineAdjustment": "alignBaselines",
+				"_adjustsFontSizeToFit": "NO",
+				"_translatesAutoresizingMaskIntoConstraints": "NO",
+				"_id": "vwG-j7-xRj"
+			  }
 			]
-		},
-		"_type": "com.apple.InterfaceBuilder3.CocoaTouch.XIB",
-		"_version": "3.0",
-		"_toolsVersion": "18122",
-		"_targetRuntime": "iOS.CocoaTouch",
-		"_propertyAccessControl": "none",
-		"_useAutolayout": "YES",
-		"_useTraitCollections": "YES",
-		"_useSafeAreas": "YES",
-		"_colorMatched": "YES"
+		  },
+		  "viewLayoutGuide": {
+			"_key": "safeArea",
+			"_id": "vUN-kp-3ea"
+		  },
+		  "color": {
+			"_key": "backgroundColor",
+			"_red": "1",
+			"_green": "1",
+			"_blue": "1",
+			"_alpha": "1",
+			"_colorSpace": "custom",
+			"_customColorSpace": "sRGB"
+		  },
+		  "freeformSimulatedSizeMetrics": {
+			"_key": "simulatedDestinationMetrics"
+		  },
+		  "point": {
+			"_key": "canvasLocation",
+			"_x": "137.68115942028987",
+			"_y": "134.59821428571428"
+		  },
+		  "_contentMode": "scaleToFill",
+		  "_id": "iN0-l3-epB"
+		}
+	  },
+	  "resources": {
+		"image": [
+		  {
+			"_name": "Halloween20_1.png",
+			"_width": "1280",
+			"_height": "720"
+		  },
+		  {
+			"_name": "Halloween20_2.png",
+			"_width": "719",
+			"_height": "28"
+		  },
+		  {
+			"_name": "Halloween20_3.png",
+			"_width": "720",
+			"_height": "73"
+		  }
+		]
+	  },
+	  "_type": "com.apple.InterfaceBuilder3.CocoaTouch.XIB",
+	  "_version": "3.0",
+	  "_toolsVersion": "18122",
+	  "_targetRuntime": "iOS.CocoaTouch",
+	  "_propertyAccessControl": "none",
+	  "_useAutolayout": "YES",
+	  "_useTraitCollections": "YES",
+	  "_useSafeAreas": "YES",
+	  "_colorMatched": "YES"
 	}
-}
+  }
