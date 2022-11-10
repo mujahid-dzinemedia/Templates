@@ -27,8 +27,8 @@
 		},
 		"customFonts": {
 			"array": {
-				"string": "CandleMustard",
-				"_key": "CandleMustard.ttf"
+				"string": "Montserrat-Bold",
+				"_key": "Montserrat-Bold.ttf"
 			},
 			"_key": "customFonts"
 		},
@@ -142,7 +142,7 @@
 							},
 							"fontDescription": {
 								"_key": "fontDescription",
-								"_name": "CandleMustard",
+								"_name": "Montserrat-Bold",
 								"_family": "Montserrat",
 								"_pointSize": "50"
 							},
@@ -185,7 +185,7 @@
 							},
 							"fontDescription": {
 								"_key": "fontDescription",
-								"_name": "CandleMustard",
+								"_name": "Montserrat-Bold",
 								"_family": "Montserrat",
 								"_pointSize": "50"
 							},
