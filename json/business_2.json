@@ -144,7 +144,7 @@
 								"_key": "fontDescription",
 								"_name": "Montserrat-Bold",
 								"_family": "Montserrat",
-								"_pointSize": "50"
+								"_pointSize": "20"
 							},
 							"color": {
 								"_key": "textColor",
@@ -187,7 +187,7 @@
 								"_key": "fontDescription",
 								"_name": "Montserrat-Bold",
 								"_family": "Montserrat",
-								"_pointSize": "50"
+								"_pointSize": "20"
 							},
 							"color": {
 								"_key": "textColor",
