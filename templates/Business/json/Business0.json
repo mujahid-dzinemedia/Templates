@@ -1,0 +1,853 @@
+﻿{
+	"document": {
+		"device": {
+			"_id": "retina6_1",
+			"_orientation": "portrait",
+			"_appearance": "light"
+		},
+		"dependencies": {
+			"deployment": {
+				"_identifier": "iOS"
+			},
+			"plugIn": {
+				"_identifier": "com.apple.InterfaceBuilder.IBCocoaTouchPlugin",
+				"_version": "18093"
+			},
+			"capability": [
+				{
+					"_name": "Safe area layout guides",
+					"_minToolsVersion": "9.0"
+				},
+				{
+					"_name": "documents saved in the Xcode 8 format",
+					"_minToolsVersion": "8.0"
+				}
+			]
+		},
+		"customFonts": {
+			"array": [
+				{
+					"string": "GoboldBold-Italic",
+					"_key": "GoboldBold-Italic.otf"
+				},
+				{
+					"string": "Montserrat-Bold",
+					"_key": "Montserrat-Bold.ttf"
+				}
+			],
+			"_key": "customFonts"
+		},
+		"objects": {
+			"placeholder": [
+				{
+					"_placeholderIdentifier": "IBFilesOwner",
+					"_id": "-1",
+					"_userLabel": "File's Owner"
+				},
+				{
+					"_placeholderIdentifier": "IBFirstResponder",
+					"_id": "-2",
+					"_customClass": "UIResponder"
+				}
+			],
+			"view": {
+				"rect": {
+					"_key": "frame",
+					"_x": "0.0",
+					"_y": "0.0",
+					"_width": "1280",
+					"_height": "720"
+				},
+				"autoresizingMask": {
+					"_key": "autoresizingMask",
+					"_widthSizable": "YES",
+					"_heightSizable": "YES"
+				},
+				"subviews": {
+					"imageView": [
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "0.0",
+								"_y": "0.0",
+								"_width": "1280",
+								"_height": "720"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "Business0_1",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "1gy-Kz-e0d"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "65",
+								"_y": "44",
+								"_width": "408",
+								"_height": "156"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "Business0_2",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "hyy-zW-acz"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "65",
+								"_y": "227",
+								"_width": "550",
+								"_height": "156"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "Business0_3",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "Qvt-xK-dID"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "65",
+								"_y": "409",
+								"_width": "408",
+								"_height": "156"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "Business0_4",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "cNu-Ge-x80"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "65",
+								"_y": "639",
+								"_width": "651.5",
+								"_height": "46.5"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "Business0_5",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "IxI-Fa-8ap"
+						}
+					],
+					"label": [
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "20",
+								"_y": "-18",
+								"_width": "356",
+								"_height": "159"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "GoboldBold-Italic",
+								"_family": "Gobold Bold",
+								"_pointSize": "158"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.0",
+								"_green": "0.0",
+								"_blue": "0.0",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_text": "BEST",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "fCn-Gr-nXf"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "30",
+								"_y": "165",
+								"_width": "499",
+								"_height": "165"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "GoboldBold-Italic",
+								"_family": "Gobold Bold",
+								"_pointSize": "158"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.0",
+								"_green": "0.0",
+								"_blue": "0.0",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_text": "COFFEE",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "oeN-Cs-g0c"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "20",
+								"_y": "345",
+								"_width": "362",
+								"_height": "167"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "GoboldBold-Italic",
+								"_family": "Gobold Bold",
+								"_pointSize": "158"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.0",
+								"_green": "0.0",
+								"_blue": "0.0",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_text": "SHOP",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "rbI-Sr-VUf"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "86",
+								"_y": "600",
+								"_width": "608",
+								"_height": "38"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Montserrat-Bold",
+								"_family": "Montserrat",
+								"_pointSize": "31"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "1",
+								"_green": "1",
+								"_blue": "1",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_text": "IN THE TOWN AROUND THE CORNOR",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "UEp-gb-gsL"
+						}
+					]
+				},
+				"viewLayoutGuide": {
+					"_key": "safeArea",
+					"_id": "vUN-kp-3ea"
+				},
+				"color": {
+					"_key": "backgroundColor",
+					"_red": "1",
+					"_green": "1",
+					"_blue": "1",
+					"_alpha": "1",
+					"_colorSpace": "custom",
+					"_customColorSpace": "sRGB"
+				},
+				"freeformSimulatedSizeMetrics": {
+					"_key": "simulatedDestinationMetrics"
+				},
+				"point": {
+					"_key": "canvasLocation",
+					"_x": "137.68115942028987",
+					"_y": "134.59821428571428"
+				},
+				"_contentMode": "scaleToFill",
+				"_id": "iN0-l3-epB"
+			}
+		},
+		"resources": {
+			"image": [
+				{
+					"_name": "Business0_1",
+					"_width": "1280",
+					"_height": "720"
+				},
+				{
+					"_name": "Business0_2",
+					"_width": "408",
+					"_height": "156"
+				},
+				{
+					"_name": "Business0_3",
+					"_width": "550",
+					"_height": "156"
+				},
+				{
+					"_name": "Business0_4",
+					"_width": "408",
+					"_height": "156"
+				},
+				{
+					"_name": "Business0_5",
+					"_width": "652",
+					"_height": "47"
+				}
+			]
+		},
+		"_type": "com.apple.InterfaceBuilder3.CocoaTouch.XIB",
+		"_version": "3.0",
+		"_toolsVersion": "18122",
+		"_targetRuntime": "iOS.CocoaTouch",
+		"_propertyAccessControl": "none",
+		"_useAutolayout": "YES",
+		"_useTraitCollections": "YES",
+		"_useSafeAreas": "YES",
+		"_colorMatched": "YES"
+	}
+}﻿{
+	"document": {
+		"device": {
+			"_id": "retina6_1",
+			"_orientation": "portrait",
+			"_appearance": "light"
+		},
+		"dependencies": {
+			"deployment": {
+				"_identifier": "iOS"
+			},
+			"plugIn": {
+				"_identifier": "com.apple.InterfaceBuilder.IBCocoaTouchPlugin",
+				"_version": "18093"
+			},
+			"capability": [
+				{
+					"_name": "Safe area layout guides",
+					"_minToolsVersion": "9.0"
+				},
+				{
+					"_name": "documents saved in the Xcode 8 format",
+					"_minToolsVersion": "8.0"
+				}
+			]
+		},
+		"customFonts": {
+			"array": [
+				{
+					"string": "GoboldBold-Italic",
+					"_key": "GoboldBold-Italic.otf"
+				},
+				{
+					"string": "Montserrat-Bold",
+					"_key": "Montserrat-Bold.ttf"
+				}
+			],
+			"_key": "customFonts"
+		},
+		"objects": {
+			"placeholder": [
+				{
+					"_placeholderIdentifier": "IBFilesOwner",
+					"_id": "-1",
+					"_userLabel": "File's Owner"
+				},
+				{
+					"_placeholderIdentifier": "IBFirstResponder",
+					"_id": "-2",
+					"_customClass": "UIResponder"
+				}
+			],
+			"view": {
+				"rect": {
+					"_key": "frame",
+					"_x": "0.0",
+					"_y": "0.0",
+					"_width": "1280",
+					"_height": "720"
+				},
+				"autoresizingMask": {
+					"_key": "autoresizingMask",
+					"_widthSizable": "YES",
+					"_heightSizable": "YES"
+				},
+				"subviews": {
+					"imageView": [
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "0.0",
+								"_y": "0.0",
+								"_width": "1280",
+								"_height": "720"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "Business0_1",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "1gy-Kz-e0d"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "65",
+								"_y": "44",
+								"_width": "408",
+								"_height": "156"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "Business0_2",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "hyy-zW-acz"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "65",
+								"_y": "227",
+								"_width": "550",
+								"_height": "156"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "Business0_3",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "Qvt-xK-dID"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "65",
+								"_y": "409",
+								"_width": "408",
+								"_height": "156"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "Business0_4",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "cNu-Ge-x80"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "65",
+								"_y": "639",
+								"_width": "651.5",
+								"_height": "46.5"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "Business0_5",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "IxI-Fa-8ap"
+						}
+					],
+					"label": [
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "20",
+								"_y": "-18",
+								"_width": "356",
+								"_height": "159"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "GoboldBold-Italic",
+								"_family": "Gobold Bold",
+								"_pointSize": "158"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.0",
+								"_green": "0.0",
+								"_blue": "0.0",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_text": "BEST",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "fCn-Gr-nXf"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "30",
+								"_y": "165",
+								"_width": "499",
+								"_height": "165"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "GoboldBold-Italic",
+								"_family": "Gobold Bold",
+								"_pointSize": "158"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.0",
+								"_green": "0.0",
+								"_blue": "0.0",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_text": "COFFEE",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "oeN-Cs-g0c"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "20",
+								"_y": "345",
+								"_width": "362",
+								"_height": "167"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "GoboldBold-Italic",
+								"_family": "Gobold Bold",
+								"_pointSize": "158"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.0",
+								"_green": "0.0",
+								"_blue": "0.0",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_text": "SHOP",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "rbI-Sr-VUf"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "86",
+								"_y": "600",
+								"_width": "608",
+								"_height": "38"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Montserrat-Bold",
+								"_family": "Montserrat",
+								"_pointSize": "31"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "1",
+								"_green": "1",
+								"_blue": "1",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_text": "IN THE TOWN AROUND THE CORNOR",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "UEp-gb-gsL"
+						}
+					]
+				},
+				"viewLayoutGuide": {
+					"_key": "safeArea",
+					"_id": "vUN-kp-3ea"
+				},
+				"color": {
+					"_key": "backgroundColor",
+					"_red": "1",
+					"_green": "1",
+					"_blue": "1",
+					"_alpha": "1",
+					"_colorSpace": "custom",
+					"_customColorSpace": "sRGB"
+				},
+				"freeformSimulatedSizeMetrics": {
+					"_key": "simulatedDestinationMetrics"
+				},
+				"point": {
+					"_key": "canvasLocation",
+					"_x": "137.68115942028987",
+					"_y": "134.59821428571428"
+				},
+				"_contentMode": "scaleToFill",
+				"_id": "iN0-l3-epB"
+			}
+		},
+		"resources": {
+			"image": [
+				{
+					"_name": "Business0_1",
+					"_width": "1280",
+					"_height": "720"
+				},
+				{
+					"_name": "Business0_2",
+					"_width": "408",
+					"_height": "156"
+				},
+				{
+					"_name": "Business0_3",
+					"_width": "550",
+					"_height": "156"
+				},
+				{
+					"_name": "Business0_4",
+					"_width": "408",
+					"_height": "156"
+				},
+				{
+					"_name": "Business0_5",
+					"_width": "652",
+					"_height": "47"
+				}
+			]
+		},
+		"_type": "com.apple.InterfaceBuilder3.CocoaTouch.XIB",
+		"_version": "3.0",
+		"_toolsVersion": "18122",
+		"_targetRuntime": "iOS.CocoaTouch",
+		"_propertyAccessControl": "none",
+		"_useAutolayout": "YES",
+		"_useTraitCollections": "YES",
+		"_useSafeAreas": "YES",
+		"_colorMatched": "YES"
+	}
+}

@@ -3,7 +3,7 @@
     "title": "Trending",
     "templates": [
       {
-        "json": "json/Halloween20.json",
+        "json": "json/Business0.json",
         "thumbnail": "thumbnail/business_t2.png"
       },
       {
@@ -15,19 +15,19 @@
         "thumbnail": "thumbnail/business_t2.png"
       },
       {
-        "json": "json/learning_1.json",
+        "json": "json/Car0.json",
         "thumbnail": "thumbnail/learning_1.png"
       },
       {
-        "json": "json/learning_1.json",
+        "json": "json/Soccer0.json",
         "thumbnail": "thumbnail/learning_1.png"
       },
       {
-        "json": "json/learning_1.json",
+        "json": "json/Halloween31.json",
         "thumbnail": "thumbnail/learning_1.png"
       },
       {
-        "json": "json/game_2.json",
+        "json": "json/Halloween32.json",
         "thumbnail": "thumbnail/gaming_t1.png"
       }
     ]
