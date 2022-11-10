@@ -84,7 +84,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "Halloween20_1",
+							"_image": "Halloween20_1.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "gbe-OX-Zrb"
 						},
@@ -107,7 +107,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "Halloween20_2",
+							"_image": "Halloween20_2.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "2Oc-qp-qYI"
 						},
@@ -130,7 +130,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "Halloween20_3",
+							"_image": "Halloween20_3.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "B0t-ma-my6"
 						}
@@ -800,17 +800,17 @@
 		"resources": {
 			"image": [
 				{
-					"_name": "Halloween20_1",
+					"_name": "Halloween20_1.png",
 					"_width": "1280",
 					"_height": "720"
 				},
 				{
-					"_name": "Halloween20_2",
+					"_name": "Halloween20_2.png",
 					"_width": "719",
 					"_height": "28"
 				},
 				{
-					"_name": "Halloween20_3",
+					"_name": "Halloween20_3.png",
 					"_width": "720",
 					"_height": "73"
 				}
