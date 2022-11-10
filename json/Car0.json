@@ -78,7 +78,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "Car0_1",
+							"_image": "Car0_1.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "yXe-hI-Z4K"
 						},
@@ -101,7 +101,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "Car0_2",
+							"_image": "Car0_2.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "weg-rh-LyJ"
 						}
@@ -227,262 +227,12 @@
 		"resources": {
 			"image": [
 				{
-					"_name": "Car0_1",
+					"_name": "Car0_1.png",
 					"_width": "1196",
 					"_height": "442"
 				},
 				{
-					"_name": "Car0_2",
-					"_width": "440",
-					"_height": "617"
-				}
-			]
-		},
-		"_type": "com.apple.InterfaceBuilder3.CocoaTouch.XIB",
-		"_version": "3.0",
-		"_toolsVersion": "19455",
-		"_targetRuntime": "iOS.CocoaTouch",
-		"_propertyAccessControl": "none",
-		"_useAutolayout": "YES",
-		"_useTraitCollections": "YES",
-		"_useSafeAreas": "YES",
-		"_colorMatched": "YES"
-	}
-}{
-	"document": {
-		"device": {
-			"_id": "retina6_1",
-			"_orientation": "portrait",
-			"_appearance": "light"
-		},
-		"dependencies": {
-			"deployment": {
-				"_identifier": "iOS"
-			},
-			"plugIn": {
-				"_identifier": "com.apple.InterfaceBuilder.IBCocoaTouchPlugin",
-				"_version": "19454"
-			},
-			"capability": [
-				{
-					"_name": "Safe area layout guides",
-					"_minToolsVersion": "9.0"
-				},
-				{
-					"_name": "documents saved in the Xcode 8 format",
-					"_minToolsVersion": "8.0"
-				}
-			]
-		},
-		"customFonts": {
-			"array": {
-				"string": "Anton-Regular",
-				"_key": "Anton-Regular.ttf"
-			},
-			"_key": "customFonts"
-		},
-		"objects": {
-			"placeholder": [
-				{
-					"_placeholderIdentifier": "IBFilesOwner",
-					"_id": "-1",
-					"_userLabel": "File's Owner"
-				},
-				{
-					"_placeholderIdentifier": "IBFirstResponder",
-					"_id": "-2",
-					"_customClass": "UIResponder"
-				}
-			],
-			"view": {
-				"rect": {
-					"_key": "frame",
-					"_x": "0.0",
-					"_y": "0.0",
-					"_width": "1280",
-					"_height": "720"
-				},
-				"autoresizingMask": {
-					"_key": "autoresizingMask",
-					"_widthSizable": "YES",
-					"_heightSizable": "YES"
-				},
-				"subviews": {
-					"imageView": [
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "84",
-								"_y": "287",
-								"_width": "1195.5",
-								"_height": "442"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"_clipsSubviews": "YES",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "scaleAspectFit",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_image": "Car0_1",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "yXe-hI-Z4K"
-						},
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "0.0",
-								"_y": "103",
-								"_width": "439.5",
-								"_height": "616.5"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"_clipsSubviews": "YES",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "scaleAspectFit",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_image": "Car0_2",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "weg-rh-LyJ"
-						}
-					],
-					"label": [
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "906",
-								"_y": "-60",
-								"_width": "310",
-								"_height": "124"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"fontDescription": {
-								"_key": "fontDescription",
-								"_name": "Anton-Regular",
-								"_family": "Anton",
-								"_pointSize": "120"
-							},
-							"color": {
-								"_key": "textColor",
-								"_red": "0.96089810129999997",
-								"_green": "0.78034692999999999",
-								"_blue": "0.17266607279999999",
-								"_alpha": "1",
-								"_colorSpace": "custom",
-								"_customColorSpace": "sRGB"
-							},
-							"nil": {
-								"_key": "highlightedColor"
-							},
-							"_opaque": "NO",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "left",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_text": "TOP 05",
-							"_textAlignment": "right",
-							"_lineBreakMode": "tailTruncation",
-							"_baselineAdjustment": "alignBaselines",
-							"_adjustsFontSizeToFit": "NO",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "lGW-t8-jje"
-						},
-						{
-							"rect": {
-								"_key": "frame",
-								"_x": "323",
-								"_y": "70",
-								"_width": "893",
-								"_height": "126"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
-							"fontDescription": {
-								"_key": "fontDescription",
-								"_name": "Anton-Regular",
-								"_family": "Anton",
-								"_pointSize": "120"
-							},
-							"color": {
-								"_key": "textColor",
-								"_red": "1",
-								"_green": "1",
-								"_blue": "1",
-								"_alpha": "1",
-								"_colorSpace": "custom",
-								"_customColorSpace": "sRGB"
-							},
-							"nil": {
-								"_key": "highlightedColor"
-							},
-							"_opaque": "NO",
-							"_userInteractionEnabled": "NO",
-							"_contentMode": "left",
-							"_horizontalHuggingPriority": "251",
-							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
-							"_text": "GIRLS MAGNET CARS",
-							"_textAlignment": "right",
-							"_lineBreakMode": "tailTruncation",
-							"_baselineAdjustment": "alignBaselines",
-							"_adjustsFontSizeToFit": "NO",
-							"_translatesAutoresizingMaskIntoConstraints": "NO",
-							"_id": "DlS-aH-2UO"
-						}
-					]
-				},
-				"viewLayoutGuide": {
-					"_key": "safeArea",
-					"_id": "vUN-kp-3ea"
-				},
-				"color": {
-					"_key": "backgroundColor",
-					"_red": "0.207688868",
-					"_green": "0.02709937468",
-					"_blue": "0.31424874069999997",
-					"_alpha": "1",
-					"_colorSpace": "custom",
-					"_customColorSpace": "sRGB"
-				},
-				"freeformSimulatedSizeMetrics": {
-					"_key": "simulatedDestinationMetrics"
-				},
-				"point": {
-					"_key": "canvasLocation",
-					"_x": "140.57971014492756",
-					"_y": "138.61607142857142"
-				},
-				"_contentMode": "scaleToFill",
-				"_id": "iN0-l3-epB"
-			}
-		},
-		"resources": {
-			"image": [
-				{
-					"_name": "Car0_1",
-					"_width": "1196",
-					"_height": "442"
-				},
-				{
-					"_name": "Car0_2",
+					"_name": "Car0_2.png",
 					"_width": "440",
 					"_height": "617"
 				}
