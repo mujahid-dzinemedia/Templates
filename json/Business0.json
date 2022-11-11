@@ -179,6 +179,29 @@
 				"_image": "Business0_5.png",
 				"_translatesAutoresizingMaskIntoConstraints": "NO",
 				"_id": "IxI-Fa-8ap"
+			  },
+			  {
+				"rect": {
+				  "_key": "frame",
+				  "_x": "65",
+				  "_y": "639",
+				  "_width": "651.5",
+				  "_height": "46.5"
+				},
+				"autoresizingMask": {
+				  "_key": "autoresizingMask",
+				  "_flexibleMaxX": "YES",
+				  "_flexibleMaxY": "YES"
+				},
+				"_clipsSubviews": "YES",
+				"_userInteractionEnabled": "NO",
+				"_contentMode": "scaleAspectFit",
+				"_horizontalHuggingPriority": "251",
+				"_verticalHuggingPriority": "251",
+				"_fixedFrame": "YES",
+				"_image": "Business0_5.png",
+				"_translatesAutoresizingMaskIntoConstraints": "NO",
+				"_id": "IxI-Fa-8ap"
 			  }
 			],
 			"label": [
