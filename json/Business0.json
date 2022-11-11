@@ -159,11 +159,11 @@
 			  },
 			  {
 				"rect": {
-				  "_key": "frame",
-				  "_x": "65",
-				  "_y": "227",
-				  "_width": "651.5",
-				  "_height": "46.5"
+					"_key": "frame",
+					"_x": "65",
+					"_y": "227",
+					"_width": "550",
+					"_height": "156"
 				},
 				"autoresizingMask": {
 				  "_key": "autoresizingMask",
