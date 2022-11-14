@@ -140,8 +140,8 @@
 						{
 							"rect": {
 								"_key": "frame",
-								"_x": "87.5",
-								"_y": "265",
+								"_x": "63",
+								"_y": "249",
 								"_width": "545",
 								"_height": "77"
 							},
@@ -179,10 +179,17 @@
 						{
 							"rect": {
 								"_key": "frame",
-								"_x": "122.5",
-								"_y": "381.5",
+								"_x": "63",
+								"_y": "367",
 								"_width": "209",
 								"_height": "77"
+							},
+							"constraints": {
+								"constraint": {
+									"_firstAttribute": "height",
+									"_constant": "77",
+									"_id": "mbB-Il-hY6"
+								}
 							},
 							"fontDescription": {
 								"_key": "fontDescription",
@@ -229,10 +236,10 @@
 					"constraint": [
 						{
 							"_firstItem": "wnV-Bi-Azk",
-							"_firstAttribute": "centerX",
+							"_firstAttribute": "leading",
 							"_secondItem": "vjE-SM-5c0",
-							"_secondAttribute": "centerX",
-							"_id": "2XE-hY-j5e"
+							"_secondAttribute": "leading",
+							"_id": "2n6-tO-WPP"
 						},
 						{
 							"_firstAttribute": "trailing",
@@ -264,13 +271,6 @@
 							"_id": "5EG-mG-mrk"
 						},
 						{
-							"_firstItem": "wnV-Bi-Azk",
-							"_firstAttribute": "centerY",
-							"_secondItem": "vjE-SM-5c0",
-							"_secondAttribute": "centerY",
-							"_id": "AvM-H0-MVQ"
-						},
-						{
 							"_firstItem": "vjE-SM-5c0",
 							"_firstAttribute": "width",
 							"_secondItem": "iN0-l3-epB",
@@ -279,12 +279,33 @@
 							"_id": "Cv0-Yi-blh"
 						},
 						{
+							"_firstItem": "rZz-r9-0z5",
+							"_firstAttribute": "top",
+							"_secondItem": "oFd-YS-P61",
+							"_secondAttribute": "top",
+							"_id": "Gtv-ap-bIJ"
+						},
+						{
+							"_firstItem": "wnV-Bi-Azk",
+							"_firstAttribute": "top",
+							"_secondItem": "vjE-SM-5c0",
+							"_secondAttribute": "top",
+							"_id": "MFx-dx-GHV"
+						},
+						{
 							"_firstItem": "oFd-YS-P61",
 							"_firstAttribute": "top",
 							"_secondItem": "vUN-kp-3ea",
 							"_secondAttribute": "top",
 							"_constant": "205",
 							"_id": "Mku-kw-N5L"
+						},
+						{
+							"_firstItem": "rZz-r9-0z5",
+							"_firstAttribute": "leading",
+							"_secondItem": "oFd-YS-P61",
+							"_secondAttribute": "leading",
+							"_id": "RpI-wf-SC8"
 						},
 						{
 							"_firstItem": "vjE-SM-5c0",
@@ -307,20 +328,6 @@
 							"_secondItem": "iN0-l3-epB",
 							"_secondAttribute": "bottom",
 							"_id": "adz-uX-cgJ"
-						},
-						{
-							"_firstItem": "rZz-r9-0z5",
-							"_firstAttribute": "centerX",
-							"_secondItem": "oFd-YS-P61",
-							"_secondAttribute": "centerX",
-							"_id": "axF-GE-AAN"
-						},
-						{
-							"_firstItem": "rZz-r9-0z5",
-							"_firstAttribute": "centerY",
-							"_secondItem": "oFd-YS-P61",
-							"_secondAttribute": "centerY",
-							"_id": "dby-IE-iOF"
 						},
 						{
 							"_firstItem": "BDQ-HG-zcw",
