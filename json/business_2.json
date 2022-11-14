@@ -184,13 +184,6 @@
 								"_width": "209",
 								"_height": "77"
 							},
-							"constraints": {
-								"constraint": {
-									"_firstAttribute": "height",
-									"_constant": "77",
-									"_id": "mbB-Il-hY6"
-								}
-							},
 							"fontDescription": {
 								"_key": "fontDescription",
 								"_name": "Montserrat-Bold",
