@@ -68,17 +68,11 @@
 								"_width": "1280",
 								"_height": "720"
 							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
 							"_clipsSubviews": "YES",
 							"_userInteractionEnabled": "NO",
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
 							"_image": "business_2_1.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "4dy-Vq-a6n"
@@ -91,17 +85,11 @@
 								"_width": "495",
 								"_height": "563"
 							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
-							},
 							"_clipsSubviews": "YES",
 							"_userInteractionEnabled": "NO",
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
 							"_image": "business_2_2.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "BDQ-HG-zcw"
@@ -114,17 +102,18 @@
 								"_width": "594",
 								"_height": "109"
 							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
+							"constraints": {
+								"constraint": {
+									"_firstAttribute": "height",
+									"_constant": "109",
+									"_id": "Dnr-Kp-bj4"
+								}
 							},
 							"_clipsSubviews": "YES",
 							"_userInteractionEnabled": "NO",
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
 							"_image": "business_2_4.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "oFd-YS-P61"
@@ -135,19 +124,13 @@
 								"_x": "63",
 								"_y": "367",
 								"_width": "328",
-								"_height": "109"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
+								"_height": "106"
 							},
 							"_clipsSubviews": "YES",
 							"_userInteractionEnabled": "NO",
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_fixedFrame": "YES",
 							"_image": "business_2_3.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "vjE-SM-5c0"
@@ -157,15 +140,10 @@
 						{
 							"rect": {
 								"_key": "frame",
-								"_x": "81",
-								"_y": "268",
+								"_x": "87.5",
+								"_y": "265",
 								"_width": "545",
 								"_height": "77"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
 							},
 							"fontDescription": {
 								"_key": "fontDescription",
@@ -195,20 +173,16 @@
 							"_lineBreakMode": "tailTruncation",
 							"_baselineAdjustment": "alignBaselines",
 							"_adjustsFontSizeToFit": "NO",
-							"_id": "Dis-1Z-ajc"
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "rZz-r9-0z5"
 						},
 						{
 							"rect": {
 								"_key": "frame",
-								"_x": "81",
-								"_y": "378",
+								"_x": "122.5",
+								"_y": "381.5",
 								"_width": "209",
 								"_height": "77"
-							},
-							"autoresizingMask": {
-								"_key": "autoresizingMask",
-								"_flexibleMaxX": "YES",
-								"_flexibleMaxY": "YES"
 							},
 							"fontDescription": {
 								"_key": "fontDescription",
@@ -238,7 +212,8 @@
 							"_lineBreakMode": "tailTruncation",
 							"_baselineAdjustment": "alignBaselines",
 							"_adjustsFontSizeToFit": "NO",
-							"_id": "sOd-Hf-Cse"
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "wnV-Bi-Azk"
 						}
 					]
 				},
@@ -249,6 +224,143 @@
 				"color": {
 					"_key": "backgroundColor",
 					"_systemColor": "systemBackgroundColor"
+				},
+				"constraints": {
+					"constraint": [
+						{
+							"_firstItem": "wnV-Bi-Azk",
+							"_firstAttribute": "centerX",
+							"_secondItem": "vjE-SM-5c0",
+							"_secondAttribute": "centerX",
+							"_id": "2XE-hY-j5e"
+						},
+						{
+							"_firstAttribute": "trailing",
+							"_secondItem": "4dy-Vq-a6n",
+							"_secondAttribute": "trailing",
+							"_id": "3lq-OE-jNO"
+						},
+						{
+							"_firstItem": "oFd-YS-P61",
+							"_firstAttribute": "leading",
+							"_secondItem": "vUN-kp-3ea",
+							"_secondAttribute": "leading",
+							"_constant": "63",
+							"_id": "3xI-SJ-Ndb"
+						},
+						{
+							"_firstItem": "4dy-Vq-a6n",
+							"_firstAttribute": "leading",
+							"_secondItem": "iN0-l3-epB",
+							"_secondAttribute": "leading",
+							"_id": "4Hf-Ni-eXg"
+						},
+						{
+							"_firstItem": "oFd-YS-P61",
+							"_firstAttribute": "width",
+							"_secondItem": "iN0-l3-epB",
+							"_secondAttribute": "width",
+							"_multiplier": "0.464062",
+							"_id": "5EG-mG-mrk"
+						},
+						{
+							"_firstItem": "wnV-Bi-Azk",
+							"_firstAttribute": "centerY",
+							"_secondItem": "vjE-SM-5c0",
+							"_secondAttribute": "centerY",
+							"_id": "AvM-H0-MVQ"
+						},
+						{
+							"_firstItem": "vjE-SM-5c0",
+							"_firstAttribute": "width",
+							"_secondItem": "iN0-l3-epB",
+							"_secondAttribute": "width",
+							"_multiplier": "0.25625",
+							"_id": "Cv0-Yi-blh"
+						},
+						{
+							"_firstItem": "oFd-YS-P61",
+							"_firstAttribute": "top",
+							"_secondItem": "vUN-kp-3ea",
+							"_secondAttribute": "top",
+							"_constant": "205",
+							"_id": "Mku-kw-N5L"
+						},
+						{
+							"_firstItem": "vjE-SM-5c0",
+							"_firstAttribute": "leading",
+							"_secondItem": "oFd-YS-P61",
+							"_secondAttribute": "leading",
+							"_id": "Thj-Ka-hZI"
+						},
+						{
+							"_firstItem": "vUN-kp-3ea",
+							"_firstAttribute": "trailing",
+							"_secondItem": "BDQ-HG-zcw",
+							"_secondAttribute": "trailing",
+							"_constant": "70",
+							"_id": "Y6L-O9-NGn"
+						},
+						{
+							"_firstItem": "4dy-Vq-a6n",
+							"_firstAttribute": "bottom",
+							"_secondItem": "iN0-l3-epB",
+							"_secondAttribute": "bottom",
+							"_id": "adz-uX-cgJ"
+						},
+						{
+							"_firstItem": "rZz-r9-0z5",
+							"_firstAttribute": "centerX",
+							"_secondItem": "oFd-YS-P61",
+							"_secondAttribute": "centerX",
+							"_id": "axF-GE-AAN"
+						},
+						{
+							"_firstItem": "rZz-r9-0z5",
+							"_firstAttribute": "centerY",
+							"_secondItem": "oFd-YS-P61",
+							"_secondAttribute": "centerY",
+							"_id": "dby-IE-iOF"
+						},
+						{
+							"_firstItem": "BDQ-HG-zcw",
+							"_firstAttribute": "bottom",
+							"_secondItem": "vUN-kp-3ea",
+							"_secondAttribute": "bottom",
+							"_constant": "34",
+							"_id": "m9T-tm-NQW"
+						},
+						{
+							"_firstItem": "vjE-SM-5c0",
+							"_firstAttribute": "top",
+							"_secondItem": "oFd-YS-P61",
+							"_secondAttribute": "bottom",
+							"_constant": "9",
+							"_id": "qf1-Xx-xF4"
+						},
+						{
+							"_firstAttribute": "top",
+							"_secondItem": "4dy-Vq-a6n",
+							"_secondAttribute": "top",
+							"_id": "rwp-md-1cu"
+						},
+						{
+							"_firstItem": "BDQ-HG-zcw",
+							"_firstAttribute": "height",
+							"_secondItem": "iN0-l3-epB",
+							"_secondAttribute": "height",
+							"_multiplier": "0.781944",
+							"_id": "y5e-XO-oa2"
+						},
+						{
+							"_firstItem": "BDQ-HG-zcw",
+							"_firstAttribute": "width",
+							"_secondItem": "iN0-l3-epB",
+							"_secondAttribute": "width",
+							"_multiplier": "0.386719",
+							"_id": "z7P-z2-2Zv"
+						}
+					]
 				},
 				"nil": {
 					"_key": "simulatedTopBarMetrics"
