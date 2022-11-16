@@ -110,7 +110,7 @@
                             "_id": "Vsp-HZ-NBf"
                         }
                     ],
-                    "label": {
+                    "label": [{
                         "rect": {
                             "_key": "frame",
                             "_x": "286",
@@ -154,7 +154,7 @@
                         "_adjustsFontSizeToFit": "NO",
                         "_translatesAutoresizingMaskIntoConstraints": "NO",
                         "_id": "nvP-k5-TjW"
-                    }
+                    }]
                 },
                 "viewLayoutGuide": {
                     "_key": "safeArea",
@@ -184,7 +184,7 @@
                     "_height": "720"
                 },
                 {
-                    "_name": "TMgta1_2.png",
+                    "_name": "TMgta1_2",
                     "_width": "822",
                     "_height": "148"
                 }
