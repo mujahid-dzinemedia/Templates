@@ -3,6 +3,22 @@
     "title": "Trending",
     "templates": [
       {
+        "json": "json/TMgta0.json",
+        "thumbnail": "thumbnail/TMgta0.png"
+      },
+      {
+        "json": "json/TMgta1.json",
+        "thumbnail": "thumbnail/TMgta1.png"
+      },
+      {
+        "json": "json/TMgta2.json",
+        "thumbnail": "thumbnail/TMgta2.png"
+      },
+      {
+        "json": "json/TMgta4.json",
+        "thumbnail": "thumbnail/TMgta4.png"
+      },
+      {
         "json": "json/Business0.json",
         "thumbnail": "thumbnail/business_t2.png"
       },
