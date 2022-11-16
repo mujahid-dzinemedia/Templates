@@ -395,23 +395,47 @@
     "title": "Diet",
     "templates": [
       {
-        "json": "json/learning_1.json",
+        "json": "json/TMgta0.json",
+        "thumbnail": "thumbnail/TMgta0.png"
+      },
+      {
+        "json": "json/TMgta1.json",
+        "thumbnail": "thumbnail/TMgta1.png"
+      },
+      {
+        "json": "json/TMgta2.json",
+        "thumbnail": "thumbnail/TMgta2.png"
+      },
+      {
+        "json": "json/TMgta4.json",
+        "thumbnail": "thumbnail/TMgta4.png"
+      },
+      {
+        "json": "json/Business0.json",
+        "thumbnail": "thumbnail/business_t2.png"
+      },
+      {
+        "json": "json/Halloween26.json",
+        "thumbnail": "thumbnail/business_t2.png"
+      },
+      {
+        "json": "json/business_2.json",
+        "thumbnail": "thumbnail/business_t2.png"
+      },
+      {
+        "json": "json/Car0.json",
         "thumbnail": "thumbnail/learning_1.png"
       },
       {
-        "json": "json/learning_1.json",
+        "json": "json/Soccer0.json",
         "thumbnail": "thumbnail/learning_1.png"
       },
       {
-        "json": "json/learning_1.json",
+        "json": "json/Halloween31.json",
         "thumbnail": "thumbnail/learning_1.png"
       },
       {
-        "json": "json/learning_1.json",
-        "thumbnail": "thumbnail/learning_1.png"
-      },
-      {
-        "json": "json/game_2.json",
+        "json": "json/Halloween32.json",
         "thumbnail": "thumbnail/gaming_t1.png"
       }
     ]
