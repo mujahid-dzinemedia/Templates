@@ -92,7 +92,7 @@
                             "_horizontalHuggingPriority": "251",
                             "_verticalHuggingPriority": "251",
                             "_fixedFrame": "YES",
-                            "_image": "TMgta4_1",
+                            "_image": "TMgta4_1.png",
                             "_translatesAutoresizingMaskIntoConstraints": "NO",
                             "_id": "ooO-3u-1p4"
                         },
@@ -115,7 +115,7 @@
                             "_horizontalHuggingPriority": "251",
                             "_verticalHuggingPriority": "251",
                             "_fixedFrame": "YES",
-                            "_image": "TMgta4_2",
+                            "_image": "TMgta4_2.png",
                             "_translatesAutoresizingMaskIntoConstraints": "NO",
                             "_id": "sfM-0u-lrM"
                         }
@@ -281,12 +281,12 @@
         "resources": {
             "image": [
                 {
-                    "_name": "TMgta4_1",
+                    "_name": "TMgta4_1.png",
                     "_width": "1280",
                     "_height": "720"
                 },
                 {
-                    "_name": "TMgta4_2",
+                    "_name": "TMgta4_2.png",
                     "_width": "659",
                     "_height": "179"
                 }

@@ -82,7 +82,7 @@
                             "_horizontalHuggingPriority": "251",
                             "_verticalHuggingPriority": "251",
                             "_fixedFrame": "YES",
-                            "_image": "TMgta0_1",
+                            "_image": "TMgta0_1.png",
                             "_translatesAutoresizingMaskIntoConstraints": "NO",
                             "_id": "ewT-x6-Iiy"
                         },
@@ -105,7 +105,7 @@
                             "_horizontalHuggingPriority": "251",
                             "_verticalHuggingPriority": "251",
                             "_fixedFrame": "YES",
-                            "_image": "TMgta0_2",
+                            "_image": "TMgta0_2.png",
                             "_translatesAutoresizingMaskIntoConstraints": "NO",
                             "_id": "26R-uo-05w"
                         },
@@ -128,7 +128,7 @@
                             "_horizontalHuggingPriority": "251",
                             "_verticalHuggingPriority": "251",
                             "_fixedFrame": "YES",
-                            "_image": "TMgta0_3",
+                            "_image": "TMgta0_3.png",
                             "_translatesAutoresizingMaskIntoConstraints": "NO",
                             "_id": "EuN-x7-WsZ"
                         },
@@ -151,7 +151,7 @@
                             "_horizontalHuggingPriority": "251",
                             "_verticalHuggingPriority": "251",
                             "_fixedFrame": "YES",
-                            "_image": "TMgta0_4",
+                            "_image": "TMgta0_4.png",
                             "_translatesAutoresizingMaskIntoConstraints": "NO",
                             "_id": "KsI-ro-21r"
                         },
@@ -174,7 +174,7 @@
                             "_horizontalHuggingPriority": "251",
                             "_verticalHuggingPriority": "251",
                             "_fixedFrame": "YES",
-                            "_image": "TMgta0_5",
+                            "_image": "TMgta0_5.png",
                             "_translatesAutoresizingMaskIntoConstraints": "NO",
                             "_id": "X56-6k-X4f"
                         }
@@ -340,27 +340,27 @@
         "resources": {
             "image": [
                 {
-                    "_name": "TMgta0_1",
+                    "_name": "TMgta0_1.png",
                     "_width": "1280",
                     "_height": "720"
                 },
                 {
-                    "_name": "TMgta0_2",
+                    "_name": "TMgta0_2.png",
                     "_width": "505",
                     "_height": "702"
                 },
                 {
-                    "_name": "TMgta0_3",
+                    "_name": "TMgta0_3.png",
                     "_width": "515",
                     "_height": "719"
                 },
                 {
-                    "_name": "TMgta0_4",
+                    "_name": "TMgta0_4.png",
                     "_width": "419",
                     "_height": "715"
                 },
                 {
-                    "_name": "TMgta0_5",
+                    "_name": "TMgta0_5.png",
                     "_width": "1026",
                     "_height": "124"
                 }

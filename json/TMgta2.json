@@ -82,7 +82,7 @@
                             "_horizontalHuggingPriority": "251",
                             "_verticalHuggingPriority": "251",
                             "_fixedFrame": "YES",
-                            "_image": "TMgta2_1",
+                            "_image": "TMgta2_1.png",
                             "_translatesAutoresizingMaskIntoConstraints": "NO",
                             "_id": "eHW-6h-DVq"
                         },
@@ -105,7 +105,7 @@
                             "_horizontalHuggingPriority": "251",
                             "_verticalHuggingPriority": "251",
                             "_fixedFrame": "YES",
-                            "_image": "TMgta2_2",
+                            "_image": "TMgta2_2.png",
                             "_translatesAutoresizingMaskIntoConstraints": "NO",
                             "_id": "Cm5-uf-9uD"
                         },
@@ -128,7 +128,7 @@
                             "_horizontalHuggingPriority": "251",
                             "_verticalHuggingPriority": "251",
                             "_fixedFrame": "YES",
-                            "_image": "TMgta2_3",
+                            "_image": "TMgta2_3.png",
                             "_translatesAutoresizingMaskIntoConstraints": "NO",
                             "_id": "DdR-E7-UaY"
                         }
@@ -294,17 +294,17 @@
         "resources": {
             "image": [
                 {
-                    "_name": "TMgta2_1",
+                    "_name": "TMgta2_1.png",
                     "_width": "1280",
                     "_height": "720"
                 },
                 {
-                    "_name": "TMgta2_2",
+                    "_name": "TMgta2_2.png",
                     "_width": "198",
                     "_height": "175"
                 },
                 {
-                    "_name": "TMgta2_3",
+                    "_name": "TMgta2_3.png",
                     "_width": "645",
                     "_height": "491"
                 }
