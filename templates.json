@@ -3,6 +3,10 @@
     "title": "Trending",
     "templates": [
       {
+        "json": "json/test.json",
+        "thumbnail": "thumbnail/test_t1.png"
+      },
+      {
         "json": "json/TMgta0.json",
         "thumbnail": "thumbnail/TMgta0.png"
       },
