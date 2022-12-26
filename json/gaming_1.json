@@ -177,49 +177,51 @@
 							"_id": "RjX-fP-QwV"
 						}
 					],
-					"label": {
-						"rect": {
-							"_key": "frame",
-							"_x": "334",
-							"_y": "53",
-							"_width": "592",
-							"_height": "54"
-						},
-						"autoresizingMask": {
-							"_key": "autoresizingMask",
-							"_flexibleMaxX": "YES",
-							"_flexibleMaxY": "YES"
-						},
-						"fontDescription": {
-							"_key": "fontDescription",
-							"_name": "CHIBYLOVERDEMO",
-							"_family": "CHIBY LOVER DEMO",
-							"_pointSize": "34"
-						},
-						"color": {
-							"_key": "textColor",
-							"_red": "0.0",
-							"_green": "0.0",
-							"_blue": "0.0",
-							"_alpha": "1",
-							"_colorSpace": "custom",
-							"_customColorSpace": "sRGB"
-						},
-						"nil": {
-							"_key": "highlightedColor"
-						},
-						"_opaque": "NO",
-						"_userInteractionEnabled": "NO",
-						"_contentMode": "left",
-						"_horizontalHuggingPriority": "251",
-						"_verticalHuggingPriority": "251",
-						"_text": "TOP 3 BEST CHARACTER OF VALORANT",
-						"_textAlignment": "natural",
-						"_lineBreakMode": "tailTruncation",
-						"_baselineAdjustment": "alignBaselines",
-						"_adjustsFontSizeToFit": "NO",
-						"_id": "sOd-Hf-Cse"
-					}
+					"label": [
+                        {
+                            "rect": {
+                                "_key": "frame",
+                                "_x": "334",
+                                "_y": "53",
+                                "_width": "592",
+                                "_height": "54"
+                            },
+                            "autoresizingMask": {
+                                "_key": "autoresizingMask",
+                                "_flexibleMaxX": "YES",
+                                "_flexibleMaxY": "YES"
+                            },
+                            "fontDescription": {
+                                "_key": "fontDescription",
+                                "_name": "CHIBYLOVERDEMO",
+                                "_family": "CHIBY LOVER DEMO",
+                                "_pointSize": "34"
+                            },
+                            "color": {
+                                "_key": "textColor",
+                                "_red": "0.0",
+                                "_green": "0.0",
+                                "_blue": "0.0",
+                                "_alpha": "1",
+                                "_colorSpace": "custom",
+                                "_customColorSpace": "sRGB"
+                            },
+                            "nil": {
+                                "_key": "highlightedColor"
+                            },
+                            "_opaque": "NO",
+                            "_userInteractionEnabled": "NO",
+                            "_contentMode": "left",
+                            "_horizontalHuggingPriority": "251",
+                            "_verticalHuggingPriority": "251",
+                            "_text": "TOP 3 BEST CHARACTER OF VALORANT",
+                            "_textAlignment": "natural",
+                            "_lineBreakMode": "tailTruncation",
+                            "_baselineAdjustment": "alignBaselines",
+                            "_adjustsFontSizeToFit": "NO",
+                            "_id": "sOd-Hf-Cse"
+                        }
+                    ]
 				},
 				"viewLayoutGuide": {
 					"_key": "safeArea",
