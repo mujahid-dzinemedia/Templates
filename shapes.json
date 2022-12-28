@@ -3,105 +3,105 @@
     {
       "name": "Avatar",
       "list": [
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/avatar/avatar_1.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/avatar/avatar_2.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/avatar/avatar_3.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/avatar/avatar_4.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/avatar/avatar_5.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/avatar/avatar_6.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/avatar/avatar_7.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/avatar/avatar_8.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/avatar/avatar_9.png"
+        "shapes/avatar/avatar_1.png",
+        "shapes/avatar/avatar_2.png",
+        "shapes/avatar/avatar_3.png",
+        "shapes/avatar/avatar_4.png",
+        "shapes/avatar/avatar_5.png",
+        "shapes/avatar/avatar_6.png",
+        "shapes/avatar/avatar_7.png",
+        "shapes/avatar/avatar_8.png",
+        "shapes/avatar/avatar_9.png"
       ]
     },
     {
       "name": "Badge",
       "list": [
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/badge/badge_1.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/badge/badge_2.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/badge/badge_3.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/badge/badge_4.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/badge/badge_5.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/badge/badge_6.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/badge/badge_7.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/badge/badge_8.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/badge/badge_9.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/badge/badge_10.png"
+        "shapes/badge/badge_1.png",
+        "shapes/badge/badge_2.png",
+        "shapes/badge/badge_3.png",
+        "shapes/badge/badge_4.png",
+        "shapes/badge/badge_5.png",
+        "shapes/badge/badge_6.png",
+        "shapes/badge/badge_7.png",
+        "shapes/badge/badge_8.png",
+        "shapes/badge/badge_9.png",
+        "shapes/badge/badge_10.png"
       ]
     },
     {
       "name": "Basic",
       "list": [
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Basic/basic_1.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Basic/basic_2.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Basic/basic_3.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Basic/basic_4.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Basic/basic_5.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Basic/basic_6.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Basic/basic_7.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Basic/basic_8.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Basic/basic_9.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Basic/basic_10.png"
+        "shapes/Basic/basic_1.png",
+        "shapes/Basic/basic_2.png",
+        "shapes/Basic/basic_3.png",
+        "shapes/Basic/basic_4.png",
+        "shapes/Basic/basic_5.png",
+        "shapes/Basic/basic_6.png",
+        "shapes/Basic/basic_7.png",
+        "shapes/Basic/basic_8.png",
+        "shapes/Basic/basic_9.png",
+        "shapes/Basic/basic_10.png"
       ]
     },
     {
       "name": "Comic",
       "list": [
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Comic/comic_1.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Comic/comic_2.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Comic/comic_3.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Comic/comic_4.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Comic/comic_5.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Comic/comic_6.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Comic/comic_7.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Comic/comic_8.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Comic/comic_9.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/Comic/comic_10.png"
+        "shapes/Comic/comic_1.png",
+        "shapes/Comic/comic_2.png",
+        "shapes/Comic/comic_3.png",
+        "shapes/Comic/comic_4.png",
+        "shapes/Comic/comic_5.png",
+        "shapes/Comic/comic_6.png",
+        "shapes/Comic/comic_7.png",
+        "shapes/Comic/comic_8.png",
+        "shapes/Comic/comic_9.png",
+        "shapes/Comic/comic_10.png"
       ]
     },
     {
       "name": "Crown",
       "list": [
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/crown/crown_1.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/crown/crown_2.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/crown/crown_3.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/crown/crown_4.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/crown/crown_5.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/crown/crown_6.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/crown/crown_7.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/crown/crown_8.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/crown/crown_9.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/crown/crown_10.png"
+        "shapes/crown/crown_1.png",
+        "shapes/crown/crown_2.png",
+        "shapes/crown/crown_3.png",
+        "shapes/crown/crown_4.png",
+        "shapes/crown/crown_5.png",
+        "shapes/crown/crown_6.png",
+        "shapes/crown/crown_7.png",
+        "shapes/crown/crown_8.png",
+        "shapes/crown/crown_9.png",
+        "shapes/crown/crown_10.png"
       ]
     },
     {
       "name": "Grunge",
       "list": [
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/grunge/grunge_1.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/grunge/grunge_2.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/grunge/grunge_3.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/grunge/grunge_4.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/grunge/grunge_5.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/grunge/grunge_6.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/grunge/grunge_7.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/grunge/grunge_8.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/grunge/grunge_9.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/grunge/grunge_10.png"
+        "shapes/grunge/grunge_1.png",
+        "shapes/grunge/grunge_2.png",
+        "shapes/grunge/grunge_3.png",
+        "shapes/grunge/grunge_4.png",
+        "shapes/grunge/grunge_5.png",
+        "shapes/grunge/grunge_6.png",
+        "shapes/grunge/grunge_7.png",
+        "shapes/grunge/grunge_8.png",
+        "shapes/grunge/grunge_9.png",
+        "shapes/grunge/grunge_10.png"
       ]
     },
     {
       "name": "Message",
       "list": [
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/message/message_1.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/message/message_2.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/message/message_3.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/message/message_4.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/message/message_5.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/message/message_6.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/message/message_7.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/message/message_8.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/message/message_9.png",
-        "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/test/shapes/message/message_10.png"
+        "shapes/message/message_1.png",
+        "shapes/message/message_2.png",
+        "shapes/message/message_3.png",
+        "shapes/message/message_4.png",
+        "shapes/message/message_5.png",
+        "shapes/message/message_6.png",
+        "shapes/message/message_7.png",
+        "shapes/message/message_8.png",
+        "shapes/message/message_9.png",
+        "shapes/message/message_10.png"
       ]
     }
   ]
