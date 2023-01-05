@@ -133,49 +133,51 @@
 							"_id": "aF7-G7-tvG"
 						}
 					],
-					"label": {
-						"rect": {
-							"_key": "frame",
-							"_x": "249",
-							"_y": "53",
-							"_width": "782",
-							"_height": "72"
-						},
-						"autoresizingMask": {
-							"_key": "autoresizingMask",
-							"_flexibleMaxX": "YES",
-							"_flexibleMaxY": "YES"
-						},
-						"fontDescription": {
-							"_key": "fontDescription",
-							"_name": "EvilEmpire",
-							"_family": "Evil Empire",
-							"_pointSize": "69"
-						},
-						"color": {
-							"_key": "textColor",
-							"_red": "0.99096900219999995",
-							"_green": "0.26441174750000002",
-							"_blue": "0.33783590790000001",
-							"_alpha": "1",
-							"_colorSpace": "custom",
-							"_customColorSpace": "sRGB"
-						},
-						"nil": {
-							"_key": "highlightedColor"
-						},
-						"_opaque": "NO",
-						"_userInteractionEnabled": "NO",
-						"_contentMode": "left",
-						"_horizontalHuggingPriority": "251",
-						"_verticalHuggingPriority": "251",
-						"_text": "BEST COMPETATIVE SQUAD EVER",
-						"_textAlignment": "natural",
-						"_lineBreakMode": "tailTruncation",
-						"_baselineAdjustment": "alignBaselines",
-						"_adjustsFontSizeToFit": "NO",
-						"_id": "sOd-Hf-Cse"
-					}
+					"label": [
+                        {
+                            "rect": {
+                                "_key": "frame",
+                                "_x": "249",
+                                "_y": "53",
+                                "_width": "782",
+                                "_height": "72"
+                            },
+                            "autoresizingMask": {
+                                "_key": "autoresizingMask",
+                                "_flexibleMaxX": "YES",
+                                "_flexibleMaxY": "YES"
+                            },
+                            "fontDescription": {
+                                "_key": "fontDescription",
+                                "_name": "EvilEmpire",
+                                "_family": "Evil Empire",
+                                "_pointSize": "69"
+                            },
+                            "color": {
+                                "_key": "textColor",
+                                "_red": "0.99096900219999995",
+                                "_green": "0.26441174750000002",
+                                "_blue": "0.33783590790000001",
+                                "_alpha": "1",
+                                "_colorSpace": "custom",
+                                "_customColorSpace": "sRGB"
+                            },
+                            "nil": {
+                                "_key": "highlightedColor"
+                            },
+                            "_opaque": "NO",
+                            "_userInteractionEnabled": "NO",
+                            "_contentMode": "left",
+                            "_horizontalHuggingPriority": "251",
+                            "_verticalHuggingPriority": "251",
+                            "_text": "BEST COMPETATIVE SQUAD EVER",
+                            "_textAlignment": "natural",
+                            "_lineBreakMode": "tailTruncation",
+                            "_baselineAdjustment": "alignBaselines",
+                            "_adjustsFontSizeToFit": "NO",
+                            "_id": "sOd-Hf-Cse"
+                        }
+                    ]
 				},
 				"viewLayoutGuide": {
 					"_key": "safeArea",
