@@ -1,0 +1,426 @@
+{
+	"document": {
+		"device": {
+			"_id": "retina6_1",
+			"_orientation": "portrait",
+			"_appearance": "light"
+		},
+		"dependencies": {
+			"deployment": {
+				"_identifier": "iOS"
+			},
+			"plugIn": {
+				"_identifier": "com.apple.InterfaceBuilder.IBCocoaTouchPlugin",
+				"_version": "21505"
+			},
+			"capability": [
+				{
+					"_name": "Safe area layout guides",
+					"_minToolsVersion": "9.0"
+				},
+				{
+					"_name": "System colors in document resources",
+					"_minToolsVersion": "11.0"
+				},
+				{
+					"_name": "documents saved in the Xcode 8 format",
+					"_minToolsVersion": "8.0"
+				}
+			]
+		},
+		"customFonts": {
+			"array": {
+				"string": "BebasKai",
+				"_key": "BebasKai.otf"
+			},
+			"_key": "customFonts"
+		},
+		"objects": {
+			"placeholder": [
+				{
+					"_placeholderIdentifier": "IBFilesOwner",
+					"_id": "-1",
+					"_userLabel": "File's Owner"
+				},
+				{
+					"_placeholderIdentifier": "IBFirstResponder",
+					"_id": "-2",
+					"_customClass": "UIResponder"
+				}
+			],
+			"view": {
+				"rect": {
+					"_key": "frame",
+					"_x": "0.0",
+					"_y": "0.0",
+					"_width": "1280",
+					"_height": "720"
+				},
+				"autoresizingMask": {
+					"_key": "autoresizingMask",
+					"_widthSizable": "YES",
+					"_heightSizable": "YES"
+				},
+				"subviews": {
+					"imageView": [
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "0.0",
+								"_y": "0.0",
+								"_width": "1280",
+								"_height": "720"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "bus_2_1.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "4dy-Vq-a6n"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "699",
+								"_y": "11",
+								"_width": "457",
+								"_height": "709"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_image": "bus_2_2.png",
+							"_id": "4XH-hF-NYT"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "320",
+								"_y": "165",
+								"_width": "259",
+								"_height": "146"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "bus_2_3.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "aw6-bo-RRM"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "320",
+								"_y": "319",
+								"_width": "293",
+								"_height": "60"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "bus_2_4.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "34b-6x-a6U"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "320",
+								"_y": "387",
+								"_width": "508",
+								"_height": "147"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "bus_2_5.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "1FF-wz-AEE"
+						}
+					],
+					"label": [
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "109",
+								"_y": "146",
+								"_width": "196",
+								"_height": "409"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "BebasKai",
+								"_family": "Bebas Kai",
+								"_pointSize": "516"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.50618094209999998",
+								"_green": "0.0",
+								"_blue": "0.744857192",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "5",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "kcg-sK-d7H"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "337",
+								"_y": "137",
+								"_width": "224",
+								"_height": "201"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "BebasKai",
+								"_family": "Bebas Kai",
+								"_pointSize": "167"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.50618094209999998",
+								"_green": "0.0",
+								"_blue": "0.744857192",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "TIPS",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "HCa-3d-OF6"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "319",
+								"_y": "359",
+								"_width": "499",
+								"_height": "201"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "BebasKai",
+								"_family": "Bebas Kai",
+								"_pointSize": "167"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.50618094209999998",
+								"_green": "0.0",
+								"_blue": "0.744857192",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "BUSINESS",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "rO9-Zd-xWk"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "329",
+								"_y": "313",
+								"_width": "276",
+								"_height": "71"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "BebasKai",
+								"_family": "Bebas Kai",
+								"_pointSize": "59"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.50618094209999998",
+								"_green": "0.0",
+								"_blue": "0.744857192",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "TO GROW YOUR",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "SfO-zy-BAf"
+						}
+					]
+				},
+				"viewLayoutGuide": {
+					"_key": "safeArea",
+					"_id": "vUN-kp-3ea"
+				},
+				"color": {
+					"_key": "backgroundColor",
+					"_systemColor": "systemBackgroundColor"
+				},
+				"nil": {
+					"_key": "simulatedTopBarMetrics"
+				},
+				"freeformSimulatedSizeMetrics": {
+					"_key": "simulatedDestinationMetrics"
+				},
+				"point": {
+					"_key": "canvasLocation",
+					"_x": "-304.34782608695656",
+					"_y": "-96.428571428571431"
+				},
+				"_contentMode": "scaleToFill",
+				"_id": "iN0-l3-epB"
+			}
+		},
+		"resources": {
+			"image": [
+				{
+					"_name": "bus_2_1.png",
+					"_width": "1280",
+					"_height": "721"
+				},
+				{
+					"_name": "bus_2_2.png",
+					"_width": "456",
+					"_height": "711"
+				},
+				{
+					"_name": "bus_2_3.png",
+					"_width": "259",
+					"_height": "147"
+				},
+				{
+					"_name": "bus_2_4.png",
+					"_width": "294",
+					"_height": "58"
+				},
+				{
+					"_name": "bus_2_5.png",
+					"_width": "509",
+					"_height": "147"
+				}
+			],
+			"systemColor": {
+				"color": {
+					"_white": "1",
+					"_alpha": "1",
+					"_colorSpace": "custom",
+					"_customColorSpace": "genericGamma22GrayColorSpace"
+				},
+				"_name": "systemBackgroundColor"
+			}
+		},
+		"_type": "com.apple.InterfaceBuilder3.CocoaTouch.XIB",
+		"_version": "3.0",
+		"_toolsVersion": "21507",
+		"_targetRuntime": "iOS.CocoaTouch",
+		"_propertyAccessControl": "none",
+		"_useAutolayout": "YES",
+		"_useTraitCollections": "YES",
+		"_useSafeAreas": "YES",
+		"_colorMatched": "YES"
+	}
+}

@@ -1,0 +1,499 @@
+{
+	"document": {
+		"device": {
+			"_id": "retina6_1",
+			"_orientation": "portrait",
+			"_appearance": "light"
+		},
+		"dependencies": {
+			"deployment": {
+				"_identifier": "iOS"
+			},
+			"plugIn": {
+				"_identifier": "com.apple.InterfaceBuilder.IBCocoaTouchPlugin",
+				"_version": "21505"
+			},
+			"capability": [
+				{
+					"_name": "Safe area layout guides",
+					"_minToolsVersion": "9.0"
+				},
+				{
+					"_name": "System colors in document resources",
+					"_minToolsVersion": "11.0"
+				},
+				{
+					"_name": "documents saved in the Xcode 8 format",
+					"_minToolsVersion": "8.0"
+				}
+			]
+		},
+		"customFonts": {
+			"array": [
+				{
+					"string": "Montserrat-Bold",
+					"_key": "Montserrat-Bold.ttf"
+				},
+				{
+					"string": "Montserrat-BoldItalic",
+					"_key": "Montserrat-BoldItalic.ttf"
+				}
+			],
+			"_key": "customFonts"
+		},
+		"objects": {
+			"placeholder": [
+				{
+					"_placeholderIdentifier": "IBFilesOwner",
+					"_id": "-1",
+					"_userLabel": "File's Owner"
+				},
+				{
+					"_placeholderIdentifier": "IBFirstResponder",
+					"_id": "-2",
+					"_customClass": "UIResponder"
+				}
+			],
+			"view": {
+				"rect": {
+					"_key": "frame",
+					"_x": "0.0",
+					"_y": "0.0",
+					"_width": "1280",
+					"_height": "720"
+				},
+				"autoresizingMask": {
+					"_key": "autoresizingMask",
+					"_widthSizable": "YES",
+					"_heightSizable": "YES"
+				},
+				"subviews": {
+					"imageView": [
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "0.0",
+								"_y": "0.0",
+								"_width": "1280",
+								"_height": "720"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "bus_4_1.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "4dy-Vq-a6n"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "86",
+								"_y": "95",
+								"_width": "629",
+								"_height": "135"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_image": "bus_4_3.png",
+							"_id": "fWK-iq-FrY"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "87",
+								"_y": "242",
+								"_width": "474",
+								"_height": "135"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_image": "bus_4_4.png",
+							"_id": "7tK-Mr-WTE"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "86",
+								"_y": "607",
+								"_width": "316",
+								"_height": "75"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "bus_4_6.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "GhS-e2-mFv"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "631",
+								"_y": "65",
+								"_width": "585",
+								"_height": "655"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "bus_4_2.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "VQl-vw-AlD"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "88",
+								"_y": "429",
+								"_width": "17",
+								"_height": "108"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_image": "bus_4_5.png",
+							"_id": "Xbt-dE-c5K"
+						}
+					],
+					"label": [
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "101",
+								"_y": "85",
+								"_width": "581",
+								"_height": "135"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Montserrat-BoldItalic",
+								"_family": "Montserrat",
+								"_pointSize": "110"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.0",
+								"_green": "0.0",
+								"_blue": "0.0",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "BUSINESS",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "5i2-NM-EPK"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "120",
+								"_y": "251",
+								"_width": "383",
+								"_height": "96"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Montserrat-BoldItalic",
+								"_family": "Montserrat",
+								"_pointSize": "78"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.0",
+								"_green": "0.0",
+								"_blue": "0.0",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "PRO TIPS",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "KTe-LJ-6h3"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "102",
+								"_y": "413",
+								"_width": "394",
+								"_height": "41"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Montserrat-Bold",
+								"_family": "Montserrat",
+								"_pointSize": "33"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.98823529480000005",
+								"_green": "0.98823529480000005",
+								"_blue": "0.98823529480000005",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "Follow My Channel For",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "aaV-rg-H83"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "102",
+								"_y": "452",
+								"_width": "410",
+								"_height": "41"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Montserrat-Bold",
+								"_family": "Montserrat",
+								"_pointSize": "33"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.98823529480000005",
+								"_green": "0.98823529480000005",
+								"_blue": "0.98823529480000005",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "More Knowledge About",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "hhw-5L-5R8"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "102",
+								"_y": "493",
+								"_width": "228",
+								"_height": "41"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Montserrat-Bold",
+								"_family": "Montserrat",
+								"_pointSize": "33"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.98823529480000005",
+								"_green": "0.98823529480000005",
+								"_blue": "0.98823529480000005",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "The Business",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "RNu-JG-fcY"
+						}
+					]
+				},
+				"viewLayoutGuide": {
+					"_key": "safeArea",
+					"_id": "vUN-kp-3ea"
+				},
+				"color": {
+					"_key": "backgroundColor",
+					"_systemColor": "systemBackgroundColor"
+				},
+				"nil": {
+					"_key": "simulatedTopBarMetrics"
+				},
+				"freeformSimulatedSizeMetrics": {
+					"_key": "simulatedDestinationMetrics"
+				},
+				"point": {
+					"_key": "canvasLocation",
+					"_x": "-304.34782608695656",
+					"_y": "-96.428571428571431"
+				},
+				"_contentMode": "scaleToFill",
+				"_id": "iN0-l3-epB"
+			}
+		},
+		"resources": {
+			"image": [
+				{
+					"_name": "bus_4_1.png",
+					"_width": "1280",
+					"_height": "721"
+				},
+				{
+					"_name": "bus_4_2.png",
+					"_width": "585",
+					"_height": "656"
+				},
+				{
+					"_name": "bus_4_3.png",
+					"_width": "624",
+					"_height": "136"
+				},
+				{
+					"_name": "bus_4_4.png",
+					"_width": "466",
+					"_height": "136"
+				},
+				{
+					"_name": "bus_4_5.png",
+					"_width": "14",
+					"_height": "105"
+				},
+				{
+					"_name": "bus_4_6.png",
+					"_width": "314",
+					"_height": "73"
+				}
+			],
+			"systemColor": {
+				"color": {
+					"_white": "1",
+					"_alpha": "1",
+					"_colorSpace": "custom",
+					"_customColorSpace": "genericGamma22GrayColorSpace"
+				},
+				"_name": "systemBackgroundColor"
+			}
+		},
+		"_type": "com.apple.InterfaceBuilder3.CocoaTouch.XIB",
+		"_version": "3.0",
+		"_toolsVersion": "21507",
+		"_targetRuntime": "iOS.CocoaTouch",
+		"_propertyAccessControl": "none",
+		"_useAutolayout": "YES",
+		"_useTraitCollections": "YES",
+		"_useSafeAreas": "YES",
+		"_colorMatched": "YES"
+	}
+}
