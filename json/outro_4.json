@@ -1,0 +1,550 @@
+{
+	"document": {
+		"device": {
+			"_id": "retina6_1",
+			"_orientation": "portrait",
+			"_appearance": "light"
+		},
+		"dependencies": {
+			"deployment": {
+				"_identifier": "iOS"
+			},
+			"plugIn": {
+				"_identifier": "com.apple.InterfaceBuilder.IBCocoaTouchPlugin",
+				"_version": "21505"
+			},
+			"capability": [
+				{
+					"_name": "Safe area layout guides",
+					"_minToolsVersion": "9.0"
+				},
+				{
+					"_name": "System colors in document resources",
+					"_minToolsVersion": "11.0"
+				},
+				{
+					"_name": "documents saved in the Xcode 8 format",
+					"_minToolsVersion": "8.0"
+				}
+			]
+		},
+		"customFonts": {
+			"array": {
+				"string": "Gobold",
+				"_key": "Gobold Regular.ttf"
+			},
+			"_key": "customFonts"
+		},
+		"objects": {
+			"placeholder": [
+				{
+					"_placeholderIdentifier": "IBFilesOwner",
+					"_id": "-1",
+					"_userLabel": "File's Owner"
+				},
+				{
+					"_placeholderIdentifier": "IBFirstResponder",
+					"_id": "-2",
+					"_customClass": "UIResponder"
+				}
+			],
+			"view": {
+				"rect": {
+					"_key": "frame",
+					"_x": "0.0",
+					"_y": "0.0",
+					"_width": "1280",
+					"_height": "720"
+				},
+				"autoresizingMask": {
+					"_key": "autoresizingMask",
+					"_widthSizable": "YES",
+					"_heightSizable": "YES"
+				},
+				"subviews": {
+					"imageView": [
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "0.0",
+								"_y": "0.0",
+								"_width": "1280",
+								"_height": "720"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_image": "outro_4_1",
+							"_id": "Yxb-CI-Zmm",
+							"_userLabel": "outro_4_1.png"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "44",
+								"_y": "246",
+								"_width": "410",
+								"_height": "226"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_image": "outro_4_2",
+							"_id": "i6h-4o-aP6",
+							"_userLabel": "outro_4_2.png"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "826",
+								"_y": "247",
+								"_width": "410",
+								"_height": "226"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_image": "outro_4_3",
+							"_id": "OBT-Pw-INI",
+							"_userLabel": "outro_4_3.png"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "78",
+								"_y": "265",
+								"_width": "343",
+								"_height": "190"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_image": "outro_4_4",
+							"_id": "KsE-pP-UEq",
+							"_userLabel": "outro_4_4.png"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "860",
+								"_y": "264",
+								"_width": "343",
+								"_height": "190"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_image": "outro_4_5",
+							"_id": "qtT-vb-brY",
+							"_userLabel": "outro_4_5.png"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "283",
+								"_y": "549",
+								"_width": "51",
+								"_height": "49"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "outro_4_6",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "b13-JV-eTd",
+							"_userLabel": "outro_4_6.png"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "548",
+								"_y": "549",
+								"_width": "51",
+								"_height": "49"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "outro_4_7",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "Pba-ZX-sxs",
+							"_userLabel": "outro_4_7.png"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "812",
+								"_y": "549",
+								"_width": "51",
+								"_height": "49"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "outro_4_8",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "1oe-6q-JD2",
+							"_userLabel": "outro_4_8.png"
+						}
+					],
+					"label": [
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "310",
+								"_y": "85",
+								"_width": "374",
+								"_height": "80"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Gobold",
+								"_family": "Gobold",
+								"_pointSize": "62"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "1",
+								"_green": "0.99999994039999995",
+								"_blue": "1",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "displayP3"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "THANK YOU FOR",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "BE6-2S-JE1"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "697",
+								"_y": "85",
+								"_width": "254",
+								"_height": "80"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Gobold",
+								"_family": "Gobold",
+								"_pointSize": "62"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.65677362679999995",
+								"_green": "0.21448156239999999",
+								"_blue": "0.88632243870000005",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "displayP3"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "WATCHING",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "O0Z-fD-qBJ"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "332",
+								"_y": "550",
+								"_width": "95",
+								"_height": "26"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Gobold",
+								"_family": "Gobold",
+								"_pointSize": "20"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "1",
+								"_green": "0.99999994039999995",
+								"_blue": "1",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "displayP3"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "| USERNAME",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "s9d-jF-sjC"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "598",
+								"_y": "550",
+								"_width": "95",
+								"_height": "26"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Gobold",
+								"_family": "Gobold",
+								"_pointSize": "20"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "1",
+								"_green": "0.99999994039999995",
+								"_blue": "1",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "displayP3"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "| USERNAME",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "5DD-nr-jvL"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "863",
+								"_y": "550",
+								"_width": "95",
+								"_height": "26"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Gobold",
+								"_family": "Gobold",
+								"_pointSize": "20"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "1",
+								"_green": "0.99999994039999995",
+								"_blue": "1",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "displayP3"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "| USERNAME",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "I1R-dS-Q2w"
+						}
+					]
+				},
+				"viewLayoutGuide": {
+					"_key": "safeArea",
+					"_id": "vUN-kp-3ea"
+				},
+				"color": {
+					"_key": "backgroundColor",
+					"_systemColor": "systemBackgroundColor"
+				},
+				"freeformSimulatedSizeMetrics": {
+					"_key": "simulatedDestinationMetrics"
+				},
+				"point": {
+					"_key": "canvasLocation",
+					"_x": "244.92753623188409",
+					"_y": "57.589285714285708"
+				},
+				"_contentMode": "scaleToFill",
+				"_id": "iN0-l3-epB"
+			}
+		},
+		"resources": {
+			"image": [
+				{
+					"_name": "outro_4_1",
+					"_width": "1280",
+					"_height": "722"
+				},
+				{
+					"_name": "outro_4_2",
+					"_width": "409",
+					"_height": "226"
+				},
+				{
+					"_name": "outro_4_3",
+					"_width": "409",
+					"_height": "226"
+				},
+				{
+					"_name": "outro_4_4",
+					"_width": "343",
+					"_height": "190"
+				},
+				{
+					"_name": "outro_4_5",
+					"_width": "343",
+					"_height": "190"
+				},
+				{
+					"_name": "outro_4_6",
+					"_width": "50",
+					"_height": "47"
+				},
+				{
+					"_name": "outro_4_7",
+					"_width": "50",
+					"_height": "47"
+				},
+				{
+					"_name": "outro_4_8",
+					"_width": "50",
+					"_height": "47"
+				}
+			],
+			"systemColor": {
+				"color": {
+					"_white": "1",
+					"_alpha": "1",
+					"_colorSpace": "custom",
+					"_customColorSpace": "genericGamma22GrayColorSpace"
+				},
+				"_name": "systemBackgroundColor"
+			}
+		},
+		"_type": "com.apple.InterfaceBuilder3.CocoaTouch.XIB",
+		"_version": "3.0",
+		"_toolsVersion": "21507",
+		"_targetRuntime": "iOS.CocoaTouch",
+		"_propertyAccessControl": "none",
+		"_useAutolayout": "YES",
+		"_useTraitCollections": "YES",
+		"_useSafeAreas": "YES",
+		"_colorMatched": "YES"
+	}
+}
