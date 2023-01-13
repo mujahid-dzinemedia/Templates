@@ -1,0 +1,361 @@
+{
+	"document": {
+		"device": {
+			"_id": "retina6_1",
+			"_orientation": "portrait",
+			"_appearance": "light"
+		},
+		"dependencies": {
+			"deployment": {
+				"_identifier": "iOS"
+			},
+			"plugIn": {
+				"_identifier": "com.apple.InterfaceBuilder.IBCocoaTouchPlugin",
+				"_version": "21505"
+			},
+			"capability": [
+				{
+					"_name": "Safe area layout guides",
+					"_minToolsVersion": "9.0"
+				},
+				{
+					"_name": "System colors in document resources",
+					"_minToolsVersion": "11.0"
+				},
+				{
+					"_name": "documents saved in the Xcode 8 format",
+					"_minToolsVersion": "8.0"
+				}
+			]
+		},
+		"customFonts": {
+			"array": [
+				{
+					"string": "BricktonRegular",
+					"_key": "Brickton Regular.otf"
+				},
+				{
+					"string": "PhoenixGaming",
+					"_key": "PhoenixGaming.ttf"
+				}
+			],
+			"_key": "customFonts"
+		},
+		"objects": {
+			"placeholder": [
+				{
+					"_placeholderIdentifier": "IBFilesOwner",
+					"_id": "-1",
+					"_userLabel": "File's Owner"
+				},
+				{
+					"_placeholderIdentifier": "IBFirstResponder",
+					"_id": "-2",
+					"_customClass": "UIResponder"
+				}
+			],
+			"view": {
+				"rect": {
+					"_key": "frame",
+					"_x": "0.0",
+					"_y": "0.0",
+					"_width": "1280",
+					"_height": "720"
+				},
+				"autoresizingMask": {
+					"_key": "autoresizingMask",
+					"_widthSizable": "YES",
+					"_heightSizable": "YES"
+				},
+				"subviews": {
+					"imageView": [
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "0.0",
+								"_y": "0.0",
+								"_width": "1280",
+								"_height": "720"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "gaming_9_1.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "4dy-Vq-a6n"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "715",
+								"_y": "253",
+								"_width": "527",
+								"_height": "229"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "gaming_9_4.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "MD7-db-Lsh"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "785",
+								"_y": "21",
+								"_width": "370",
+								"_height": "224"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "gaming_9_2.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "aV3-0a-8Hi"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "73",
+								"_y": "61",
+								"_width": "630",
+								"_height": "659"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_image": "gaming_9_3.png",
+							"_id": "nuC-cd-Bl3"
+						}
+					],
+					"label": [
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "788",
+								"_y": "329",
+								"_width": "290",
+								"_height": "79"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "BricktonRegular",
+								"_family": "Brickton",
+								"_pointSize": "79"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.97053721745056054",
+								"_green": "0.97790291308792043",
+								"_blue": "1",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "99 kill",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "9QW-lv-J38"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "759",
+								"_y": "484",
+								"_width": "418",
+								"_height": "117"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "PhoenixGaming",
+								"_family": "Phoenix Gaming",
+								"_pointSize": "104"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.97053721745056054",
+								"_green": "0.97790291308792043",
+								"_blue": "1",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "COMPETATIVE",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "n71-c1-FWy"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "799",
+								"_y": "590",
+								"_width": "339",
+								"_height": "85"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "PhoenixGaming",
+								"_family": "Phoenix Gaming",
+								"_pointSize": "75"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.97053721745056054",
+								"_green": "0.97790291308792043",
+								"_blue": "1",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "CUSTOM MATCH",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "Ns8-WG-VHj"
+						}
+					]
+				},
+				"viewLayoutGuide": {
+					"_key": "safeArea",
+					"_id": "vUN-kp-3ea"
+				},
+				"color": {
+					"_key": "backgroundColor",
+					"_systemColor": "systemBackgroundColor"
+				},
+				"nil": {
+					"_key": "simulatedTopBarMetrics"
+				},
+				"freeformSimulatedSizeMetrics": {
+					"_key": "simulatedDestinationMetrics"
+				},
+				"point": {
+					"_key": "canvasLocation",
+					"_x": "-304.34782608695656",
+					"_y": "-96.428571428571431"
+				},
+				"_contentMode": "scaleToFill",
+				"_id": "iN0-l3-epB"
+			}
+		},
+		"resources": {
+			"image": [
+				{
+					"_name": "gaming_9_1.png",
+					"_width": "1280",
+					"_height": "720"
+				},
+				{
+					"_name": "gaming_9_2.png",
+					"_width": "368",
+					"_height": "220"
+				},
+				{
+					"_name": "gaming_9_3.png",
+					"_width": "628",
+					"_height": "660"
+				},
+				{
+					"_name": "gaming_9_4.png",
+					"_width": "528",
+					"_height": "224"
+				}
+			],
+			"systemColor": {
+				"color": {
+					"_white": "1",
+					"_alpha": "1",
+					"_colorSpace": "custom",
+					"_customColorSpace": "genericGamma22GrayColorSpace"
+				},
+				"_name": "systemBackgroundColor"
+			}
+		},
+		"_type": "com.apple.InterfaceBuilder3.CocoaTouch.XIB",
+		"_version": "3.0",
+		"_toolsVersion": "21507",
+		"_targetRuntime": "iOS.CocoaTouch",
+		"_propertyAccessControl": "none",
+		"_useAutolayout": "YES",
+		"_useTraitCollections": "YES",
+		"_useSafeAreas": "YES",
+		"_colorMatched": "YES"
+	}
+}

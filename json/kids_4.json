@@ -1,0 +1,286 @@
+{
+	"document": {
+		"device": {
+			"_id": "retina6_1",
+			"_orientation": "portrait",
+			"_appearance": "light"
+		},
+		"dependencies": {
+			"deployment": {
+				"_identifier": "iOS"
+			},
+			"plugIn": {
+				"_identifier": "com.apple.InterfaceBuilder.IBCocoaTouchPlugin",
+				"_version": "21505"
+			},
+			"capability": [
+				{
+					"_name": "Safe area layout guides",
+					"_minToolsVersion": "9.0"
+				},
+				{
+					"_name": "System colors in document resources",
+					"_minToolsVersion": "11.0"
+				},
+				{
+					"_name": "documents saved in the Xcode 8 format",
+					"_minToolsVersion": "8.0"
+				}
+			]
+		},
+		"customFonts": {
+			"array": {
+				"string": "Cookies",
+				"_key": "COOKIE~1.TTF"
+			},
+			"_key": "customFonts"
+		},
+		"objects": {
+			"placeholder": [
+				{
+					"_placeholderIdentifier": "IBFilesOwner",
+					"_id": "-1",
+					"_userLabel": "File's Owner"
+				},
+				{
+					"_placeholderIdentifier": "IBFirstResponder",
+					"_id": "-2",
+					"_customClass": "UIResponder"
+				}
+			],
+			"view": {
+				"rect": {
+					"_key": "frame",
+					"_x": "0.0",
+					"_y": "0.0",
+					"_width": "1280",
+					"_height": "720"
+				},
+				"autoresizingMask": {
+					"_key": "autoresizingMask",
+					"_widthSizable": "YES",
+					"_heightSizable": "YES"
+				},
+				"subviews": {
+					"imageView": [
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "0.0",
+								"_y": "0.0",
+								"_width": "1280",
+								"_height": "720"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "kid_4_1.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "FQE-3y-GGv"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "16",
+								"_y": "78",
+								"_width": "777",
+								"_height": "642"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "kid_4_3.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "xJ7-Ql-qrq"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "470",
+								"_y": "175",
+								"_width": "612",
+								"_height": "124"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "kid_4_2.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "3wG-Bk-EcG"
+						}
+					],
+					"label": [
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "514",
+								"_y": "26",
+								"_width": "507",
+								"_height": "133"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Cookies",
+								"_family": "Cookies",
+								"_pointSize": "133"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.0",
+								"_green": "0.0",
+								"_blue": "0.0",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "MY TOYS",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "T3z-OY-l4s"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "492",
+								"_y": "180",
+								"_width": "550",
+								"_height": "100"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Cookies",
+								"_family": "Cookies",
+								"_pointSize": "100"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.84084433319999996",
+								"_green": "0.043023280800000001",
+								"_blue": "0.32147884370000002",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "COLLECTION",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "uW3-qK-2cI"
+						}
+					]
+				},
+				"viewLayoutGuide": {
+					"_key": "safeArea",
+					"_id": "vUN-kp-3ea"
+				},
+				"color": {
+					"_key": "backgroundColor",
+					"_systemColor": "systemBackgroundColor"
+				},
+				"nil": {
+					"_key": "simulatedTopBarMetrics"
+				},
+				"freeformSimulatedSizeMetrics": {
+					"_key": "simulatedDestinationMetrics"
+				},
+				"point": {
+					"_key": "canvasLocation",
+					"_x": "-304.34782608695656",
+					"_y": "-96.428571428571431"
+				},
+				"_contentMode": "scaleToFill",
+				"_id": "iN0-l3-epB"
+			}
+		},
+		"resources": {
+			"image": [
+				{
+					"_name": "kid_4_1.png",
+					"_width": "1281",
+					"_height": "720"
+				},
+				{
+					"_name": "kid_4_2.png",
+					"_width": "611",
+					"_height": "125"
+				},
+				{
+					"_name": "kid_4_3.png",
+					"_width": "783",
+					"_height": "646"
+				}
+			],
+			"systemColor": {
+				"color": {
+					"_white": "1",
+					"_alpha": "1",
+					"_colorSpace": "custom",
+					"_customColorSpace": "genericGamma22GrayColorSpace"
+				},
+				"_name": "systemBackgroundColor"
+			}
+		},
+		"_type": "com.apple.InterfaceBuilder3.CocoaTouch.XIB",
+		"_version": "3.0",
+		"_toolsVersion": "21507",
+		"_targetRuntime": "iOS.CocoaTouch",
+		"_propertyAccessControl": "none",
+		"_useAutolayout": "YES",
+		"_useTraitCollections": "YES",
+		"_useSafeAreas": "YES",
+		"_colorMatched": "YES"
+	}
+}

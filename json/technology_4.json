@@ -1,0 +1,385 @@
+{
+	"document": {
+		"device": {
+			"_id": "retina6_1",
+			"_orientation": "portrait",
+			"_appearance": "light"
+		},
+		"dependencies": {
+			"deployment": {
+				"_identifier": "iOS"
+			},
+			"plugIn": {
+				"_identifier": "com.apple.InterfaceBuilder.IBCocoaTouchPlugin",
+				"_version": "21505"
+			},
+			"capability": [
+				{
+					"_name": "Safe area layout guides",
+					"_minToolsVersion": "9.0"
+				},
+				{
+					"_name": "System colors in document resources",
+					"_minToolsVersion": "11.0"
+				},
+				{
+					"_name": "documents saved in the Xcode 8 format",
+					"_minToolsVersion": "8.0"
+				}
+			]
+		},
+		"customFonts": {
+			"array": {
+				"string": "Norwester-Regular",
+				"_key": "Norwester-Regular.ttf"
+			},
+			"_key": "customFonts"
+		},
+		"objects": {
+			"placeholder": [
+				{
+					"_placeholderIdentifier": "IBFilesOwner",
+					"_id": "-1",
+					"_userLabel": "File's Owner"
+				},
+				{
+					"_placeholderIdentifier": "IBFirstResponder",
+					"_id": "-2",
+					"_customClass": "UIResponder"
+				}
+			],
+			"view": {
+				"rect": {
+					"_key": "frame",
+					"_x": "0.0",
+					"_y": "0.0",
+					"_width": "1280",
+					"_height": "720"
+				},
+				"autoresizingMask": {
+					"_key": "autoresizingMask",
+					"_widthSizable": "YES",
+					"_heightSizable": "YES"
+				},
+				"subviews": {
+					"imageView": [
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "0.0",
+								"_y": "0.0",
+								"_width": "1280",
+								"_height": "720"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "technology_4_1.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "4dy-Vq-a6n"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "623",
+								"_y": "19",
+								"_width": "603",
+								"_height": "701"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "technology_4_2.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "ZNI-80-4bK"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "50",
+								"_y": "392",
+								"_width": "476",
+								"_height": "139"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "technology_4_4.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "4yo-hu-kdP"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "45",
+								"_y": "601",
+								"_width": "319",
+								"_height": "76"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "technology_4_5.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "xCe-kJ-w3e"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "457",
+								"_y": "82",
+								"_width": "234",
+								"_height": "155"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"_clipsSubviews": "YES",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "scaleAspectFit",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_fixedFrame": "YES",
+							"_image": "technology_4_3.png",
+							"_translatesAutoresizingMaskIntoConstraints": "NO",
+							"_id": "6bH-KT-FYr"
+						}
+					],
+					"label": [
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "34",
+								"_y": "66",
+								"_width": "308",
+								"_height": "168"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Norwester-Regular",
+								"_family": "Norwester",
+								"_pointSize": "140"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.98823529480000005",
+								"_green": "0.98823529480000005",
+								"_blue": "0.98823529480000005",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "100%",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "n9w-Yz-qld"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "35",
+								"_y": "214",
+								"_width": "832",
+								"_height": "168"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Norwester-Regular",
+								"_family": "Norwester",
+								"_pointSize": "140"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.98823529480000005",
+								"_green": "0.98823529480000005",
+								"_blue": "0.98823529480000005",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "FREE INTERNET",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "VLM-Ag-B7V"
+						},
+						{
+							"rect": {
+								"_key": "frame",
+								"_x": "69",
+								"_y": "423",
+								"_width": "416",
+								"_height": "77"
+							},
+							"autoresizingMask": {
+								"_key": "autoresizingMask",
+								"_flexibleMaxX": "YES",
+								"_flexibleMaxY": "YES"
+							},
+							"fontDescription": {
+								"_key": "fontDescription",
+								"_name": "Norwester-Regular",
+								"_family": "Norwester",
+								"_pointSize": "64"
+							},
+							"color": {
+								"_key": "textColor",
+								"_red": "0.0",
+								"_green": "0.26231852169999997",
+								"_blue": "1",
+								"_alpha": "1",
+								"_colorSpace": "custom",
+								"_customColorSpace": "sRGB"
+							},
+							"nil": {
+								"_key": "highlightedColor"
+							},
+							"_opaque": "NO",
+							"_userInteractionEnabled": "NO",
+							"_contentMode": "left",
+							"_horizontalHuggingPriority": "251",
+							"_verticalHuggingPriority": "251",
+							"_text": "2023 NEW TRICK",
+							"_textAlignment": "natural",
+							"_lineBreakMode": "tailTruncation",
+							"_baselineAdjustment": "alignBaselines",
+							"_adjustsFontSizeToFit": "NO",
+							"_id": "YTX-nj-9Tx"
+						}
+					]
+				},
+				"viewLayoutGuide": {
+					"_key": "safeArea",
+					"_id": "vUN-kp-3ea"
+				},
+				"color": {
+					"_key": "backgroundColor",
+					"_systemColor": "systemBackgroundColor"
+				},
+				"nil": {
+					"_key": "simulatedTopBarMetrics"
+				},
+				"freeformSimulatedSizeMetrics": {
+					"_key": "simulatedDestinationMetrics"
+				},
+				"point": {
+					"_key": "canvasLocation",
+					"_x": "-304.34782608695656",
+					"_y": "-96.428571428571431"
+				},
+				"_contentMode": "scaleToFill",
+				"_id": "iN0-l3-epB"
+			}
+		},
+		"resources": {
+			"image": [
+				{
+					"_name": "technology_4_1.png",
+					"_width": "1281",
+					"_height": "721"
+				},
+				{
+					"_name": "technology_4_2.png",
+					"_width": "600",
+					"_height": "706"
+				},
+				{
+					"_name": "technology_4_3.png",
+					"_width": "232",
+					"_height": "153"
+				},
+				{
+					"_name": "technology_4_4.png",
+					"_width": "476",
+					"_height": "134"
+				},
+				{
+					"_name": "technology_4_5.png",
+					"_width": "313",
+					"_height": "73"
+				}
+			],
+			"systemColor": {
+				"color": {
+					"_white": "1",
+					"_alpha": "1",
+					"_colorSpace": "custom",
+					"_customColorSpace": "genericGamma22GrayColorSpace"
+				},
+				"_name": "systemBackgroundColor"
+			}
+		},
+		"_type": "com.apple.InterfaceBuilder3.CocoaTouch.XIB",
+		"_version": "3.0",
+		"_toolsVersion": "21507",
+		"_targetRuntime": "iOS.CocoaTouch",
+		"_propertyAccessControl": "none",
+		"_useAutolayout": "YES",
+		"_useTraitCollections": "YES",
+		"_useSafeAreas": "YES",
+		"_colorMatched": "YES"
+	}
+}

@@ -26,6 +26,22 @@
       {
         "json": "json/gaming_6.json",
         "thumbnail": "thumbnail/gaming_6.png"
+      },
+      {
+        "json": "json/gaming_7.json",
+        "thumbnail": "thumbnail/gaming_7.png"
+      },
+      {
+        "json": "json/gaming_8.json",
+        "thumbnail": "thumbnail/gaming_8.png"
+      },
+      {
+        "json": "json/gaming_9.json",
+        "thumbnail": "thumbnail/gaming_9.png"
+      },
+      {
+        "json": "json/gaming_10.json",
+        "thumbnail": "thumbnail/gaming_10.png"
       }
     ]
   },
@@ -78,5 +94,54 @@
         "thumbnail": "thumbnail/outro_5.png"
       }
     ]
-  }
-]
+  },
+  {
+    "title": "Kids",
+    "templates": [
+      {
+        "json": "json/kids_1.json",
+        "thumbnail": "thumbnail/kids_1.png"
+      },
+      {
+        "json": "json/kids_2.json",
+        "thumbnail": "thumbnail/kids_2.png"
+      },
+      {
+        "json": "json/kids_3.json",
+        "thumbnail": "thumbnail/kids_3.png"
+      },
+      {
+        "json": "json/kids_4.json",
+        "thumbnail": "thumbnail/kids_4.png"
+      },
+      {
+        "json": "json/kids_5.json",
+        "thumbnail": "thumbnail/kids_5.png"
+       }
+     ] 
+  },
+  {
+    "title": "technology",
+    "templates": [
+      {
+        "json": "json/technology_1.json",
+        "thumbnail": "thumbnail/technology_1.png"
+      },
+      {
+        "json": "json/technology_2.json",
+        "thumbnail": "thumbnail/technology_2.png"
+      },
+      {
+        "json": "json/technology_3.json",
+        "thumbnail": "thumbnail/technology_3.png"
+      },
+      {
+        "json": "json/technology_4.json",
+        "thumbnail": "thumbnail/technology_4.png"
+      },
+      {
+        "json": "json/technology_5.json",
+        "thumbnail": "thumbnail/technology_5.png"
+      }
+    ]  
+
