@@ -6,6 +6,9 @@
 			"_appearance": "light"
 		},
 		"dependencies": {
+			"deployment": {
+				"_identifier": "iOS"
+			},
 			"plugIn": {
 				"_identifier": "com.apple.InterfaceBuilder.IBCocoaTouchPlugin",
 				"_version": "21505"
@@ -78,7 +81,7 @@
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_image": "outro_5_1",
+							"_image": "outro_5_1.png",
 							"_id": "Yxb-CI-Zmm",
 							"_userLabel": "outro_5_1.png"
 						},
@@ -101,7 +104,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "outro_5_2",
+							"_image": "outro_5_2.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "kYh-9T-3xG",
 							"_userLabel": "outro_5_2.png"
@@ -125,7 +128,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "outro_5_3",
+							"_image": "outro_5_3.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "vW9-Bf-Dcn",
 							"_userLabel": "outro_5_3.png"
@@ -148,7 +151,7 @@
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_image": "outro_5_4",
+							"_image": "outro_5_4.png",
 							"_id": "S6X-Ln-BB5",
 							"_userLabel": "outro_5_4.png"
 						},
@@ -170,7 +173,7 @@
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_image": "outro_5_5",
+							"_image": "outro_5_5.png",
 							"_id": "KIH-3p-l6i",
 							"_userLabel": "outro_5_5.png"
 						},
@@ -193,7 +196,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "outro_5_6",
+							"_image": "outro_5_6.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "wNc-a3-eEf",
 							"_userLabel": "outro_5_6.png"
@@ -217,7 +220,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "outro_5_7",
+							"_image": "outro_5_7.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "x26-4o-aqF",
 							"_userLabel": "outro_5_7.png"
@@ -241,7 +244,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "outro_5_8",
+							"_image": "outro_5_8.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "weZ-z4-QEe",
 							"_userLabel": "outro_5_8.png"
@@ -264,7 +267,7 @@
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_image": "outro_5_9",
+							"_image": "outro_5_9.png",
 							"_id": "eH0-mQ-ujC",
 							"_userLabel": "outro_5_9.png"
 						}
@@ -518,47 +521,47 @@
 		"resources": {
 			"image": [
 				{
-					"_name": "outro_5_1",
+					"_name": "outro_5_1.png",
 					"_width": "1280",
 					"_height": "720"
 				},
 				{
-					"_name": "outro_5_2",
+					"_name": "outro_5_2.png",
 					"_width": "410",
 					"_height": "249"
 				},
 				{
-					"_name": "outro_5_3",
+					"_name": "outro_5_3.png",
 					"_width": "410",
 					"_height": "249"
 				},
 				{
-					"_name": "outro_5_4",
+					"_name": "outro_5_4.png",
 					"_width": "385",
 					"_height": "224"
 				},
 				{
-					"_name": "outro_5_5",
+					"_name": "outro_5_5.png",
 					"_width": "385",
 					"_height": "224"
 				},
 				{
-					"_name": "outro_5_6",
+					"_name": "outro_5_6.png",
 					"_width": "285",
 					"_height": "49"
 				},
 				{
-					"_name": "outro_5_7",
+					"_name": "outro_5_7.png",
 					"_width": "285",
 					"_height": "49"
 				},
 				{
-					"_name": "outro_5_8",
+					"_name": "outro_5_8.png",
 					"_width": "285",
 					"_height": "49"
 				},
 				{
-					"_name": "outro_5_9",
+					"_name": "outro_5_9.png",
 					"_width": "652",
 					"_height": "361"
 				}
