@@ -95,7 +95,7 @@
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_image": "outro_3_1",
+							"_image": "outro_3_1.png",
 							"_id": "Yxb-CI-Zmm",
 							"_userLabel": "outro_3_1.png"
 						},
@@ -117,7 +117,7 @@
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_image": "outro_3_2",
+							"_image": "outro_3_2.png",
 							"_id": "OBP-WT-u8q",
 							"_userLabel": "outro_3_2.png"
 						},
@@ -139,7 +139,7 @@
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_image": "outro_3_3",
+							"_image": "outro_3_3.png",
 							"_id": "04j-kO-HWh",
 							"_userLabel": "outro_3_3.png"
 						},
@@ -162,7 +162,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "outro_3_4",
+							"_image": "outro_3_4.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "NkD-5s-fRt",
 							"_userLabel": "outro_3_4.png"
@@ -186,7 +186,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "outro_3_5",
+							"_image": "outro_3_5.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "KI6-eO-hzd",
 							"_userLabel": "outro_3_5.png"
@@ -210,7 +210,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "outro_3_6",
+							"_image": "outro_3_6.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "uVP-Op-e5f",
 							"_userLabel": "outro_3_6.png"
@@ -500,32 +500,32 @@
 		"resources": {
 			"image": [
 				{
-					"_name": "outro_3_1",
+					"_name": "outro_3_1.png",
 					"_width": "1280",
 					"_height": "720"
 				},
 				{
-					"_name": "outro_3_2",
+					"_name": "outro_3_2.png",
 					"_width": "376",
 					"_height": "266"
 				},
 				{
-					"_name": "outro_3_3",
+					"_name": "outro_3_3.png",
 					"_width": "376",
 					"_height": "266"
 				},
 				{
-					"_name": "outro_3_4",
+					"_name": "outro_3_4.png",
 					"_width": "352",
 					"_height": "198"
 				},
 				{
-					"_name": "outro_3_5",
+					"_name": "outro_3_5.png",
 					"_width": "352",
 					"_height": "198"
 				},
 				{
-					"_name": "outro_3_6",
+					"_name": "outro_3_6.png",
 					"_width": "296",
 					"_height": "66"
 				}

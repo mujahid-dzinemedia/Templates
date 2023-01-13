@@ -81,7 +81,7 @@
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_image": "outro_2_1",
+							"_image": "outro_2_1.png",
 							"_id": "Yxb-CI-Zmm",
 							"_userLabel": "outro_2_1.png"
 						},
@@ -103,7 +103,7 @@
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_image": "outro_2_2",
+							"_image": "outro_2_2.png",
 							"_id": "ckx-z3-4wg",
 							"_userLabel": "outro_2_2.png"
 						},
@@ -125,7 +125,7 @@
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_image": "outro_2_3",
+							"_image": "outro_2_3.png",
 							"_id": "JSV-Oh-CWe",
 							"_userLabel": "outro_2_3.png"
 						},
@@ -147,7 +147,7 @@
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_image": "outro_2_4",
+							"_image": "outro_2_4.png",
 							"_id": "dNf-dP-QCJ",
 							"_userLabel": "outro_2_4.png"
 						},
@@ -169,7 +169,7 @@
 							"_contentMode": "scaleAspectFit",
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
-							"_image": "outro_2_5",
+							"_image": "outro_2_5.png",
 							"_id": "7M2-W4-mKk",
 							"_userLabel": "outro_2_5.png"
 						},
@@ -192,7 +192,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "outro_2_6",
+							"_image": "outro_2_6.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "Es8-9g-1r5",
 							"_userLabel": "outro_2_6.png"
@@ -216,7 +216,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "outro_2_7",
+							"_image": "outro_2_7.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "ak1-qO-YVA",
 							"_userLabel": "outro_2_7.png"
@@ -240,7 +240,7 @@
 							"_horizontalHuggingPriority": "251",
 							"_verticalHuggingPriority": "251",
 							"_fixedFrame": "YES",
-							"_image": "outro_2_8",
+							"_image": "outro_2_8.png",
 							"_translatesAutoresizingMaskIntoConstraints": "NO",
 							"_id": "huV-7b-BDm",
 							"_userLabel": "outro_2_8.png"
@@ -491,42 +491,42 @@
 		"resources": {
 			"image": [
 				{
-					"_name": "outro_2_1",
+					"_name": "outro_2_1.png",
 					"_width": "1280",
 					"_height": "720"
 				},
 				{
-					"_name": "outro_2_2",
+					"_name": "outro_2_2.png",
 					"_width": "419",
 					"_height": "236"
 				},
 				{
-					"_name": "outro_2_3",
+					"_name": "outro_2_3.png",
 					"_width": "419",
 					"_height": "236"
 				},
 				{
-					"_name": "outro_2_4",
+					"_name": "outro_2_4.png",
 					"_width": "409",
 					"_height": "226"
 				},
 				{
-					"_name": "outro_2_5",
+					"_name": "outro_2_5.png",
 					"_width": "409",
 					"_height": "226"
 				},
 				{
-					"_name": "outro_2_6",
+					"_name": "outro_2_6.png",
 					"_width": "50",
 					"_height": "47"
 				},
 				{
-					"_name": "outro_2_7",
+					"_name": "outro_2_7.png",
 					"_width": "50",
 					"_height": "47"
 				},
 				{
-					"_name": "outro_2_8",
+					"_name": "outro_2_8.png",
 					"_width": "50",
 					"_height": "47"
 				}
