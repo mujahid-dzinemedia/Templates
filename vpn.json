@@ -12,7 +12,7 @@
     "country": "Japan",
     "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/JP@3x.png",
     "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/japan.ovpn",
-    "signal": 1,
+    "signal": 3,
     "paid": true,
     "ovpnUserPassword": "vpn"
   },
@@ -21,7 +21,7 @@
     "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/JP@3x.png",
     "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_126.76.92.116_udp_1992.ovpn",
     "ovpnUserName": "vpn",
-    "signal": 1,
+    "signal": 2,
     "paid": true,
     "ovpnUserPassword": "vpn"
   },
