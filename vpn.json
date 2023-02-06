@@ -9,36 +9,10 @@
     "ovpnUserPassword": "vpn"
   },
   {
-    "country": "Japan 0",
-    "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/JP@3x.png",
-    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_126.26.30.213_tcp_1455.ovpn",
-    "signal": 3,
-    "paid": true,
-    "ovpnUserPassword": "vpn"
-  },
-  {
     "country": "Japan",
     "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/JP@3x.png",
     "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_126.26.30.213_tcp_1455.ovpn",
     "signal": 3,
-    "paid": true,
-    "ovpnUserPassword": "vpn"
-  },
-  {
-    "country": "Japan 2",
-    "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/JP@3x.png",
-    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_126.26.30.213_tcp_1455.ovpn",
-    "ovpnUserName": "vpn",
-    "signal": 2,
-    "paid": true,
-    "ovpnUserPassword": "vpn"
-  },
-  {
-    "country": "Japan 3",
-    "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/JP@3x.png",
-    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_126.26.30.213_tcp_1455.ovpn",
-    "ovpnUserName": "vpn",
-    "signal": 1,
     "paid": true,
     "ovpnUserPassword": "vpn"
   },
