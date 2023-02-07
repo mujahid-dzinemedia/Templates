@@ -2,7 +2,7 @@
   {
     "country": "Sweden",
     "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/SE@3x.png",
-    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_126.26.30.213_tcp_1455.ovpn",
+    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_219.100.37.216_udp_1195.ovpn",
     "ovpnUserName": "vpn",
     "signal": 1,
     "paid": true,
@@ -11,7 +11,7 @@
   {
     "country": "Japan",
     "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/JP@3x.png",
-    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_126.26.30.213_tcp_1455.ovpn",
+    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_219.100.37.216_udp_1195.ovpn",
     "signal": 3,
     "paid": true,
     "ovpnUserPassword": "vpn"
@@ -19,7 +19,7 @@
   {
     "country": "Canada",
     "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/CA@3x.png",
-    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_126.26.30.213_tcp_1455.ovpn",
+    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_219.100.37.216_udp_1195.ovpn",
     "ovpnUserName": "vpn",
     "signal": 1,
     "paid": true,
@@ -28,7 +28,7 @@
   {
     "country": "Germany",
     "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/DE@3x.png",
-    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_126.26.30.213_tcp_1455.ovpn",
+    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_219.100.37.216_udp_1195.ovpn",
     "ovpnUserName": "vpn",
     "signal": 1,
     "paid": true,
@@ -37,7 +37,7 @@
   {
     "country": "Korea",
     "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/KR@3x.png",
-    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_126.26.30.213_tcp_1455.ovpn",
+    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_219.100.37.216_udp_1195.ovpn",
     "ovpnUserName": "vpn",
     "signal": 1,
     "paid": true,
@@ -46,7 +46,7 @@
   {
     "country": "USA",
     "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/US@3x.png",
-    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_126.26.30.213_tcp_1455.ovpn",
+    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_219.100.37.216_udp_1195.ovpn",
     "ovpnUserName": "vpn",
     "signal": 1,
     "paid": true,
@@ -55,7 +55,7 @@
   {
     "country": "Vietnam",
     "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/VN@3x.png",
-    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_126.26.30.213_tcp_1455.ovpn",
+    "ovpn": "https://raw.githubusercontent.com/mujahid-dzinemedia/Templates/main/vpn/vpngate_219.100.37.216_udp_1195.ovpn",
     "ovpnUserName": "vpn",
     "signal": 1,
     "paid": true,
